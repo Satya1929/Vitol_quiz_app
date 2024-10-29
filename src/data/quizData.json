@@ -1,0 +1,50 @@
+{
+  "week1": {
+    "pyq": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Paris", "Rome", "Madrid"],
+        "correctAnswer": "Paris",
+        "explanation": "Paris is the capital and most populous city of France."
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "correctAnswer": "Mars",
+        "explanation": "Mars appears red due to iron oxide (rust) on its surface."
+      },
+      {
+        "question": "What is the chemical symbol for Gold?",
+        "options": ["Ag", "Fe", "Au", "Cu"],
+        "correctAnswer": "Au",
+        "explanation": "Au (Aurum in Latin) is the chemical symbol for Gold on the periodic table."
+      },
+      {
+        "question": "Which is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "correctAnswer": "Pacific Ocean",
+        "explanation": "The Pacific Ocean is the largest and deepest ocean on Earth, covering more than 30% of the Earth's surface."
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+        "correctAnswer": "Leonardo da Vinci",
+        "explanation": "The Mona Lisa was painted by Italian artist Leonardo da Vinci between 1503-1519."
+      },
+      {
+        "question": "What is the square root of 144?",
+        "options": ["10", "12", "14", "16"],
+        "correctAnswer": "12",
+        "explanation": "12 × 12 = 144, therefore 12 is the square root of 144."
+      }
+    ],
+    "set1": [
+      {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Jupiter", "Mars", "Saturn"],
+        "correctAnswer": "Jupiter",
+        "explanation": "Jupiter is the largest planet, known for its massive size and iconic Great Red Spot."
+      }
+    ]
+  }
+}
