@@ -8,6 +8,11 @@ import { VideoSection } from './components/VideoSection';
 import { Contributors } from './components/Contributors';
 import { Background } from './components/Background';
 import quizData from './data/quizData.json';
+import ReactGA from "react-ga4";
+
+ReactGA.initialize("G-XGLMVEGNZB");
+ReactGA.send({ hitType: "pageview", page: "/", title: "Home" });
+
 
 type Stage = 'weeks' | 'sets' | 'quiz' | 'analysis' | 'contributors';
 
