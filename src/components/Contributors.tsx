@@ -82,7 +82,7 @@ export const Contributors: React.FC = () => {
     <Background>
       <div className="w-full max-w-4xl mx-auto">
         <h1 className="text-4xl font-bold text-center mb-12">
-          Meet the amazing contributors behind this project.🎉
+          Meet the Amazing person behind this project!🎉
         </h1>
         
         <div className="grid grid-cols-1 gap-8 justify-center items-center min-h-[40vh]">

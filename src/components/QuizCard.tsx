@@ -30,3 +30,4 @@ export const QuizCard: React.FC<QuizCardProps> = ({ type, setNumber, onClick }) 
     </button>
   );
 }
+

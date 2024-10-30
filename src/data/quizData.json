@@ -2,49 +2,1574 @@
   "week1": {
     "pyq": [
       {
-        "question": "What is the capital of France?",
-        "options": ["Berlin", "Paris", "Rome", "Madrid"],
-        "correctAnswer": "Paris",
-        "explanation": "Paris is the capital and most populous city of France."
+        "question": "What is the nature of the Indian state as defined in the Constitution?",
+        "options": [
+          "Sovereign, Socialist, Secular, Democratic, Republic",
+          "Monarchic, Capitalist, Secular",
+          "Socialist, Theocratic, Democratic",
+          "None of the above"
+        ],
+        "correctAnswer": "Sovereign, Socialist, Secular, Democratic, Republic",
+        "explanation": "The Indian state is defined as Sovereign, Socialist, Secular, Democratic, and Republic in nature."
       },
       {
-        "question": "Which planet is known as the Red Planet?",
-        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
-        "correctAnswer": "Mars",
-        "explanation": "Mars appears red due to iron oxide (rust) on its surface."
+        "question": "What amendment added the term 'Socialist' to the Indian Constitution?",
+        "options": [
+          "41st Amendment",
+          "42nd Amendment",
+          "43rd Amendment",
+          "44th Amendment"
+        ],
+        "correctAnswer": "42nd Amendment",
+        "explanation": "The term 'Socialist' was added to the Indian Constitution by the 42nd Amendment Act, 1976."
       },
       {
-        "question": "What is the chemical symbol for Gold?",
-        "options": ["Ag", "Fe", "Au", "Cu"],
-        "correctAnswer": "Au",
-        "explanation": "Au (Aurum in Latin) is the chemical symbol for Gold on the periodic table."
+        "question": "What type of socialism does India follow?",
+        "options": [
+          "Communistic Socialism",
+          "Democratic Socialism",
+          "Capitalistic Socialism",
+          "Feudal Socialism"
+        ],
+        "correctAnswer": "Democratic Socialism",
+        "explanation": "India follows 'Democratic Socialism' which supports a mixed economy with both private and public sectors."
       },
       {
-        "question": "Which is the largest ocean on Earth?",
-        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
-        "correctAnswer": "Pacific Ocean",
-        "explanation": "The Pacific Ocean is the largest and deepest ocean on Earth, covering more than 30% of the Earth's surface."
+        "question": "What is the aim of the Socialist principles in the Indian Constitution?",
+        "options": [
+          "To promote capitalism",
+          "To eliminate inequality in income",
+          "To establish a monarchy",
+          "To encourage privatization"
+        ],
+        "correctAnswer": "To eliminate inequality in income",
+        "explanation": "The Socialist principles aim at the elimination of inequality in income, status, and standards of life."
       },
       {
-        "question": "Who painted the Mona Lisa?",
-        "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
-        "correctAnswer": "Leonardo da Vinci",
-        "explanation": "The Mona Lisa was painted by Italian artist Leonardo da Vinci between 1503-1519."
+        "question": "What does the term 'Sovereign' imply in the context of the Indian state?",
+        "options": [
+          "Dependent on other nations",
+          "Supreme power and independence",
+          "Limited authority",
+          "None of the above"
+        ],
+        "correctAnswer": "Supreme power and independence",
+        "explanation": "Sovereign implies that the state has supreme power, is independent, and is not controlled by external forces."
       },
       {
-        "question": "What is the square root of 144?",
-        "options": ["10", "12", "14", "16"],
-        "correctAnswer": "12",
-        "explanation": "12 × 12 = 144, therefore 12 is the square root of 144."
+        "question": "Which document outlines the fundamental rights and duties of Indian citizens?",
+        "options": [
+          "The Preamble",
+          "The Directive Principles",
+          "The Constitution",
+          "The Bill of Rights"
+        ],
+        "correctAnswer": "The Constitution",
+        "explanation": "The Constitution of India outlines the fundamental rights and duties of its citizens."
+      },
+      {
+        "question": "What is the significance of the Directive Principles of State Policy?",
+        "options": [
+          "They are enforceable by law",
+          "They guide the state in policy-making",
+          "They are optional",
+          "They are only for the central government"
+        ],
+        "correctAnswer": "They guide the state in policy-making",
+        "explanation": "The Directive Principles of State Policy serve as guidelines for the state in making laws and policies."
+      },
+      {
+        "question": "What is the primary focus of the Indian Constitution?",
+        "options": [
+          "Establishing a monarchy",
+          "Promoting individualism",
+          "Ensuring justice, liberty, equality, and fraternity",
+          "Encouraging feudalism"
+        ],
+        "correctAnswer": "Ensuring justice, liberty, equality, and fraternity",
+        "explanation": "The primary focus of the Indian Constitution is to ensure justice, liberty, equality, and fraternity among all citizens."
+      },
+      {
+        "question": "Which article of the Indian Constitution deals with the right to equality?",
+        "options": [
+          "Article 14",
+          "Article 19",
+          "Article 21",
+          "Article 32"
+        ],
+        "correctAnswer": "Article 14",
+        "explanation": "Article 14 of the Indian Constitution guarantees the right to equality before the law."
+      },
+      {
+        "question": "What is the role of the President of India as per the Constitution?",
+        "options": [
+          "Head of the state",
+          "Head of the government",
+          "Supreme Commander of the Armed Forces",
+          "Both A and C"
+        ],
+        "correctAnswer": "Both A and C",
+        "explanation": "The President of India serves as the head of the state and the Supreme Commander of the Armed Forces."
       }
     ],
     "set1": [
       {
-        "question": "What is the largest planet in our solar system?",
-        "options": ["Earth", "Jupiter", "Mars", "Saturn"],
-        "correctAnswer": "Jupiter",
-        "explanation": "Jupiter is the largest planet, known for its massive size and iconic Great Red Spot."
+        "question": "What is the significance of the Preamble in the Indian Constitution?",
+        "options": [
+          "It is a decorative introduction",
+          "It outlines the objectives of the Constitution",
+          "It is not legally binding",
+          "None of the above"
+        ],
+        "correctAnswer": "It outlines the objectives of the Constitution",
+        "explanation": "The Preamble outlines the objectives and guiding principles of the Constitution."
+      },
+      {
+        "question": "Which of the following is NOT a feature of the Indian Constitution?",
+        "options": [
+          "Federalism",
+          "Unitary system",
+          "Parliamentary system",
+          "Presidential system"
+        ],
+        "correctAnswer": "Presidential system",
+        "explanation": "The Indian Constitution follows a parliamentary system, not a presidential system."
+      },
+      {
+        "question": "What does the term 'Secular' mean in the context of the Indian state?",
+        "options": [
+          "Favoring one religion",
+          "No religion is favored by the state",
+          "Promoting atheism",
+          "Encouraging religious conflicts"
+        ],
+        "correctAnswer": "No religion is favored by the state",
+        "explanation": "Secular means that the state treats all religions equally and does not favor any religion."
+      },
+      {
+        "question": "Which body is responsible for the amendment of the Indian Constitution?",
+        "options": [
+          "The President",
+          "The Parliament",
+          "The Supreme Court",
+          "The Prime Minister"
+        ],
+        "correctAnswer": "The Parliament",
+        "explanation": "The Parliament of India is responsible for amending the Constitution."
+      },
+      {
+        "question": "What is the maximum number of members in the Rajya Sabha?",
+        "options": [
+          "250",
+          "300",
+          "500",
+          "100"
+        ],
+        "correctAnswer": "250",
+        "explanation": "The maximum number of members in the Rajya Sabha, the upper house of Parliament, is 250."
+      },
+      {
+        "question": "Which fundamental right protects the freedom of speech and expression?",
+        "options": [
+          "Right to Equality",
+          "Right to Freedom",
+          "Right against Exploitation",
+          "Cultural and Educational Rights"
+        ],
+        "correctAnswer": "Right to Freedom",
+        "explanation": "The Right to Freedom includes the right to speech and expression as per Article 19 of the Constitution."
+      },
+      {
+        "question": "What is the minimum age for voting in India?",
+        "options": [
+          "18 years",
+          "21 years",
+          "25 years",
+          "16 years"
+        ],
+        "correctAnswer": "18 years",
+        "explanation": "The minimum age for voting in India is 18 years as per the Constitution."
+      },
+      {
+        "question": "Which article of the Constitution provides for the right to constitutional remedies?",
+        "options": [
+          "Article 32",
+          "Article 21",
+          "Article 19",
+          "Article 14"
+        ],
+        "correctAnswer": "Article 32",
+        "explanation": "Article 32 provides the right to constitutional remedies for the enforcement of fundamental rights."
+      },
+      {
+        "question": "What is the role of the Prime Minister in the Indian government?",
+        "options": [
+          "Head of the state",
+          "Head of the government",
+          "Leader of the opposition",
+          "None of the above"
+        ],
+        "correctAnswer": "Head of the government",
+        "explanation": "The Prime Minister is the head of the government and is responsible for running the administration."
+      },
+      {
+        "question": "Which of the following is a feature of the Indian parliamentary system?",
+        "options": [
+          "Bicameral legislature",
+          "Single-party rule",
+          "Direct elections",
+          "None of the above"
+        ],
+        "correctAnswer": "Bicameral legislature",
+        "explanation": "The Indian parliamentary system features a bicameral legislature, consisting of the Lok Sabha and Rajya Sabha."
       }
     ]
-  }
+  },
+  "week2": {
+    "pyq": [
+      {
+        "question": "What is Article 21 of the Indian Constitution about?",
+        "options": [
+          "Right to Life and Personal Liberty",
+          "Right to Equality",
+          "Right to Freedom",
+          "Right against Exploitation"
+        ],
+        "correctAnswer": "Right to Life and Personal Liberty",
+        "explanation": "Article 21 ensures protection of life and personal liberty, a fundamental right under the Indian Constitution."
+      },
+      {
+        "question": "Which amendment inserted Article 21A, providing free and compulsory education?",
+        "options": [
+          "42nd Amendment",
+          "86th Amendment",
+          "93rd Amendment",
+          "44th Amendment"
+        ],
+        "correctAnswer": "86th Amendment",
+        "explanation": "The 86th Amendment Act introduced Article 21A, focusing on the Right to Education."
+      },
+      {
+        "question": "What does the writ of 'Habeas Corpus' signify?",
+        "options": [
+          "To produce the body",
+          "To prevent unlawful detention",
+          "To command a public duty",
+          "To quash an illegal order"
+        ],
+        "correctAnswer": "To produce the body",
+        "explanation": "Habeas Corpus is a writ requiring a person under arrest to be brought before a judge or court."
+      },
+      {
+        "question": "What fundamental right is protected under Article 19(1)(a) of the Indian Constitution?",
+        "options": [
+          "Freedom of Speech and Expression",
+          "Right to Assemble Peaceably",
+          "Right to Equality",
+          "Right against Exploitation"
+        ],
+        "correctAnswer": "Freedom of Speech and Expression",
+        "explanation": "Article 19(1)(a) guarantees the right to free speech and expression for Indian citizens."
+      },
+      {
+        "question": "Which Article in the Constitution defines 'State' in the context of fundamental rights?",
+        "options": [
+          "Article 12",
+          "Article 14",
+          "Article 16",
+          "Article 18"
+        ],
+        "correctAnswer": "Article 12",
+        "explanation": "Article 12 provides a broad definition of 'State' to include various governmental bodies and authorities."
+      },
+      {
+        "question": "What is the maximum period of detention under preventive detention without consulting an advisory board, as per Article 22?",
+        "options": [
+          "1 month",
+          "2 months",
+          "3 months",
+          "4 months"
+        ],
+        "correctAnswer": "3 months",
+        "explanation": "Article 22(4) specifies that preventive detention cannot exceed three months without the opinion of an advisory board."
+      },
+      {
+        "question": "Which writ is issued to prevent a lower court from exceeding its jurisdiction?",
+        "options": [
+          "Certiorari",
+          "Mandamus",
+          "Prohibition",
+          "Habeas Corpus"
+        ],
+        "correctAnswer": "Prohibition",
+        "explanation": "Prohibition is a writ preventing a lower court from continuing proceedings beyond its jurisdiction."
+      },
+      {
+        "question": "Under which Article is 'Freedom of Religion' guaranteed?",
+        "options": [
+          "Article 14",
+          "Article 21",
+          "Article 25",
+          "Article 32"
+        ],
+        "correctAnswer": "Article 25",
+        "explanation": "Article 25 provides for the freedom of religion, allowing all persons the right to practice and propagate their faith."
+      },
+      {
+        "question": "Which Article allows the Supreme Court to issue writs for enforcement of fundamental rights?",
+        "options": [
+          "Article 32",
+          "Article 226",
+          "Article 14",
+          "Article 22"
+        ],
+        "correctAnswer": "Article 32",
+        "explanation": "Article 32 is a fundamental right allowing individuals to move the Supreme Court for enforcing their fundamental rights."
+      },
+      {
+        "question": "What does Article 15 prohibit?",
+        "options": [
+          "Discrimination on grounds of religion, race, caste, sex, or place of birth",
+          "Untouchability",
+          "Employment of children in hazardous conditions",
+          "Forced labor"
+        ],
+        "correctAnswer": "Discrimination on grounds of religion, race, caste, sex, or place of birth",
+        "explanation": "Article 15 prohibits discrimination against citizens based on religion, race, caste, sex, or place of birth."
+      }
+    ],
+    "set1": [
+      {
+        "question": "Which writ commands a public official to perform a public duty?",
+        "options": [
+          "Certiorari",
+          "Mandamus",
+          "Quo Warranto",
+          "Prohibition"
+        ],
+        "correctAnswer": "Mandamus",
+        "explanation": "Mandamus directs a public official or government body to perform a public duty."
+      },
+      {
+        "question": "What does Article 17 of the Indian Constitution address?",
+        "options": [
+          "Abolition of Titles",
+          "Abolition of Untouchability",
+          "Equality before Law",
+          "Right to Education"
+        ],
+        "correctAnswer": "Abolition of Untouchability",
+        "explanation": "Article 17 abolishes untouchability and forbids its practice in any form."
+      },
+      {
+        "question": "Which Article ensures protection against double jeopardy?",
+        "options": [
+          "Article 19",
+          "Article 20",
+          "Article 22",
+          "Article 25"
+        ],
+        "correctAnswer": "Article 20",
+        "explanation": "Article 20(2) of the Indian Constitution provides protection against double jeopardy."
+      },
+      {
+        "question": "What Article 22 provision protects individuals arrested for crimes?",
+        "options": [
+          "Right to be produced before a magistrate within 24 hours",
+          "Right to legal aid",
+          "Right against arbitrary detention",
+          "All of the above"
+        ],
+        "correctAnswer": "All of the above",
+        "explanation": "Article 22 grants these rights to individuals arrested and detained for committing offenses."
+      },
+      {
+        "question": "Which case established the concept of the 'Golden Triangle' in the Constitution?",
+        "options": [
+          "Maneka Gandhi v. Union of India",
+          "Keshavananda Bharati v. State of Kerala",
+          "A.K. Gopalan v. State of Madras",
+          "Minerva Mills v. Union of India"
+        ],
+        "correctAnswer": "Maneka Gandhi v. Union of India",
+        "explanation": "In this case, the Supreme Court established the 'Golden Triangle' test linking Articles 14, 19, and 21."
+      },
+      {
+        "question": "Which Article allows High Courts to issue writs?",
+        "options": [
+          "Article 14",
+          "Article 32",
+          "Article 226",
+          "Article 20"
+        ],
+        "correctAnswer": "Article 226",
+        "explanation": "Article 226 empowers High Courts to issue writs for enforcement of fundamental rights and other matters."
+      },
+      {
+        "question": "What right does Article 16 protect?",
+        "options": [
+          "Right to equality of opportunity in public employment",
+          "Right to freedom of speech",
+          "Right to form associations",
+          "Right against exploitation"
+        ],
+        "correctAnswer": "Right to equality of opportunity in public employment",
+        "explanation": "Article 16 ensures equal opportunities in matters of public employment for all citizens."
+      },
+      {
+        "question": "Who can initiate a writ petition under Article 32?",
+        "options": [
+          "Any citizen",
+          "The State",
+          "Only the Supreme Court",
+          "Parliament"
+        ],
+        "correctAnswer": "Any citizen",
+        "explanation": "Any citizen can move the Supreme Court for enforcement of fundamental rights under Article 32."
+      },
+      {
+        "question": "What does Article 19(1)(d) guarantee?",
+        "options": [
+          "Freedom to move freely throughout India",
+          "Freedom of speech",
+          "Right to life",
+          "Freedom of religion"
+        ],
+        "correctAnswer": "Freedom to move freely throughout India",
+        "explanation": "Article 19(1)(d) grants the freedom to move freely within the territory of India."
+      },
+      {
+        "question": "What Article is known as the 'Heart and Soul of the Constitution' as per Dr. Ambedkar?",
+        "options": [
+          "Article 19",
+          "Article 32",
+          "Article 14",
+          "Article 21"
+        ],
+        "correctAnswer": "Article 32",
+        "explanation": "Dr. Ambedkar referred to Article 32, which allows individuals to seek enforcement of their fundamental rights, as the 'Heart and Soul of the Constitution.'"
+      }
+    ],
+    "set2": [
+      {
+        "question": "What does Article 23 of the Indian Constitution prohibit?",
+        "options": [
+          "Untouchability",
+          "Discrimination",
+          "Human trafficking and forced labor",
+          "Freedom of speech"
+        ],
+        "correctAnswer": "Human trafficking and forced labor",
+        "explanation": "Article 23 prohibits human trafficking, forced labor, and other similar forms of exploitation."
+      },
+      {
+        "question": "What is the significance of Article 29 in the Constitution?",
+        "options": [
+          "Protects cultural rights of minorities",
+          "Ensures freedom of speech",
+          "Provides right to education",
+          "Prohibits untouchability"
+        ],
+        "correctAnswer": "Protects cultural rights of minorities",
+        "explanation": "Article 29 safeguards the cultural and educational rights of minorities."
+      },
+      {
+        "question": "What does the writ of 'Quo Warranto' mean?",
+        "options": [
+          "By what authority",
+          "To prevent unlawful detention",
+          "To command a public duty",
+          "To produce the body"
+        ],
+        "correctAnswer": "By what authority",
+        "explanation": "Quo Warranto is a writ questioning the legality of a person's claim to public office."
+      },
+      {
+        "question": "Which Article provides the right to establish and administer educational institutions for minorities?",
+        "options": [
+          "Article 29",
+          "Article 30",
+          "Article 15",
+          "Article 19"
+        ],
+        "correctAnswer": "Article 30",
+        "explanation": "Article 30 grants minorities the right to establish and manage educational institutions of their choice."
+      },
+      {
+        "question": "Which Article of the Indian Constitution discusses the Right to Constitutional Remedies?",
+        "options": [
+          "Article 32",
+          "Article 21",
+          "Article 14",
+          "Article 19"
+        ],
+        "correctAnswer": "Article 32",
+        "explanation": "Article 32 guarantees the right to constitutional remedies, allowing individuals to move the Supreme Court for enforcement of rights."
+      },
+      {
+        "question": "Under which Article can discrimination based on religion, race, caste, or sex be prohibited?",
+        "options": [
+          "Article 14",
+          "Article 15",
+          "Article 16",
+          "Article 19"
+        ],
+        "correctAnswer": "Article 15",
+        "explanation": "Article 15 prohibits discrimination based on religion, race, caste, sex, or place of birth."
+      },
+      {
+        "question": "Which Article discusses the freedom to form associations or unions?",
+        "options": [
+          "Article 15",
+          "Article 16",
+          "Article 19(1)(c)",
+          "Article 21"
+        ],
+        "correctAnswer": "Article 19(1)(c)",
+        "explanation": "Article 19(1)(c) provides the right to form associations or unions."
+      },
+      {
+        "question": "What is the core focus of Article 24 of the Constitution?",
+        "options": [
+          "Right to Education",
+          "Prohibition of child labor",
+          "Freedom of religion",
+          "Right to privacy"
+        ],
+        "correctAnswer": "Prohibition of child labor",
+        "explanation": "Article 24 prohibits the employment of children in hazardous work environments."
+      },
+      {
+        "question": "What is the basis for restrictions on the freedom of speech under Article 19(2)?",
+        "options": [
+          "National security",
+          "Public order",
+          "Decency or morality",
+          "All of the above"
+        ],
+        "correctAnswer": "All of the above",
+        "explanation": "Article 19(2) allows restrictions on freedom of speech to protect national security, public order, decency, and morality."
+      },
+      {
+        "question": "Which Article covers protection from ex post facto laws, double jeopardy, and self-incrimination?",
+        "options": [
+          "Article 19",
+          "Article 20",
+          "Article 22",
+          "Article 14"
+        ],
+        "correctAnswer": "Article 20",
+        "explanation": "Article 20 provides protection against ex post facto laws, double jeopardy, and self-incrimination."
+      }
+    ],
+    "set3": [
+      {
+        "question": "What is the significance of Article 226 in the Indian Constitution?",
+        "options": [
+          "Empowers High Courts to issue writs",
+          "Grants the right to life",
+          "Protects religious freedom",
+          "Establishes the Supreme Court"
+        ],
+        "correctAnswer": "Empowers High Courts to issue writs",
+        "explanation": "Article 226 empowers High Courts to issue writs for the enforcement of fundamental rights."
+      },
+      {
+        "question": "Which Article in the Constitution is referred to as the 'Right to Equality'?",
+        "options": [
+          "Article 12",
+          "Article 14",
+          "Article 21",
+          "Article 25"
+        ],
+        "correctAnswer": "Article 14",
+        "explanation": "Article 14 ensures equality before the law and equal protection of the laws for all citizens."
+      },
+      {
+        "question": "What does the term 'secular state' imply in the context of the Indian Constitution?",
+        "options": [
+          "No official state religion",
+          "Preference for Hinduism",
+          "Separation of state and religion",
+          "Both A and C"
+        ],
+        "correctAnswer": "Both A and C",
+        "explanation": "A secular state means there is no official state religion, and the state treats all religions equally."
+      },
+      {
+        "question": "What is Article 18 about in the Constitution of India?",
+        "options": [
+          "Abolition of Titles",
+          "Right to Education",
+          "Freedom of Speech",
+          "Right to Privacy"
+        ],
+        "correctAnswer": "Abolition of Titles",
+        "explanation": "Article 18 prohibits the state from conferring titles to ensure equality among citizens."
+      },
+      {
+        "question": "Which article addresses the prohibition of employment of children in hazardous industries?",
+        "options": [
+          "Article 23",
+          "Article 24",
+          "Article 15",
+          "Article 22"
+        ],
+        "correctAnswer": "Article 24",
+        "explanation": "Article 24 prohibits employment of children under 14 years in factories or hazardous industries."
+      },
+      {
+        "question": "Which article is linked to the protection of cultural and educational rights of minorities?",
+        "options": [
+          "Article 26",
+          "Article 27",
+          "Article 28",
+          "Article 29"
+        ],
+        "correctAnswer": "Article 29",
+        "explanation": "Article 29 aims to protect the cultural and educational rights of minority groups."
+      },
+      {
+        "question": "What right does Article 19(1)(b) ensure?",
+        "options": [
+          "Right to assemble peaceably without arms",
+          "Freedom of speech",
+          "Right to equality",
+          "Right to life"
+        ],
+        "correctAnswer": "Right to assemble peaceably without arms",
+        "explanation": "Article 19(1)(b) allows citizens to assemble peacefully without arms."
+      },
+      {
+        "question": "What does Article 22 of the Indian Constitution protect?",
+        "options": [
+          "Freedom of Religion",
+          "Right against arbitrary arrest",
+          "Right to Equality",
+          "Right to Freedom"
+        ],
+        "correctAnswer": "Right against arbitrary arrest",
+        "explanation": "Article 22 safeguards individuals against arbitrary arrest and detention."
+      },
+      {
+        "question": "Under which Article can a person seek compensation if unlawfully deprived of life or personal liberty?",
+        "options": [
+          "Article 21",
+          "Article 32",
+          "Article 226",
+          "Article 12"
+        ],
+        "correctAnswer": "Article 21",
+        "explanation": "Article 21's interpretation includes the right to compensation for unlawful deprivation of life or liberty."
+      },
+      {
+        "question": "What is Article 32 famously known as?",
+        "options": [
+          "The soul of the Constitution",
+          "Right to Equality",
+          "Abolition of Untouchability",
+          "Freedom of Religion"
+        ],
+        "correctAnswer": "The soul of the Constitution",
+        "explanation": "Dr. B.R. Ambedkar described Article 32, the right to constitutional remedies, as the 'soul of the Constitution.'"
+      }
+    ]
+  },
+  "week3": {
+    "pyq": [
+      {
+        "question": "What is the role of the President of India as per Article 52?",
+        "options": [
+          "Head of State",
+          "Chief Justice",
+          "Prime Minister",
+          "Speaker of Lok Sabha"
+        ],
+        "correctAnswer": "Head of State",
+        "explanation": "Article 52 establishes the President of India as the head of the state."
+      },
+      {
+        "question": "Which article of the Indian Constitution deals with the impeachment of the President?",
+        "options": [
+          "Article 61",
+          "Article 52",
+          "Article 72",
+          "Article 75"
+        ],
+        "correctAnswer": "Article 61",
+        "explanation": "Article 61 outlines the impeachment process for the President."
+      },
+      {
+        "question": "Under which article can the President of India seek the Supreme Court's advisory opinion?",
+        "options": [
+          "Article 143",
+          "Article 76",
+          "Article 100",
+          "Article 256"
+        ],
+        "correctAnswer": "Article 143",
+        "explanation": "Article 143 allows the President to seek advice from the Supreme Court."
+      },
+      {
+        "question": "What does Article 50 of the Constitution aim to separate?",
+        "options": [
+          "Executive and Judiciary",
+          "Legislative and Judiciary",
+          "Executive and Legislative",
+          "None"
+        ],
+        "correctAnswer": "Executive and Judiciary",
+        "explanation": "Article 50 seeks to separate the judiciary from the executive branch."
+      },
+      {
+        "question": "Who has the authority to appoint the Attorney General of India?",
+        "options": [
+          "Prime Minister",
+          "Chief Justice",
+          "President",
+          "Governor"
+        ],
+        "correctAnswer": "President",
+        "explanation": "The President appoints the Attorney General under Article 76."
+      },
+      {
+        "question": "Which article gives the President power to promulgate ordinances?",
+        "options": [
+          "Article 123",
+          "Article 126",
+          "Article 127",
+          "Article 129"
+        ],
+        "correctAnswer": "Article 123",
+        "explanation": "Article 123 enables the President to issue ordinances when Parliament is not in session."
+      },
+      {
+        "question": "What is required for the Parliament to pass a bill related to reorganization of states?",
+        "options": [
+          "Presidential Assent",
+          "Judiciary Approval",
+          "PM's Approval",
+          "State Consent"
+        ],
+        "correctAnswer": "Presidential Assent",
+        "explanation": "The President must assent for bills related to state reorganization as per Article 3."
+      },
+      {
+        "question": "Under Article 256, who ensures state compliance with Union laws?",
+        "options": [
+          "Prime Minister",
+          "Supreme Court",
+          "President",
+          "Governors"
+        ],
+        "correctAnswer": "President",
+        "explanation": "Article 256 mandates that states comply with Union laws, overseen by the President."
+      },
+      {
+        "question": "Which power does Article 72 grant to the President?",
+        "options": [
+          "Pardoning power",
+          "Legislative power",
+          "Diplomatic power",
+          "Military power"
+        ],
+        "correctAnswer": "Pardoning power",
+        "explanation": "Article 72 allows the President to grant pardons and commute sentences."
+      },
+      {
+        "question": "Who advises the President on matters of executive decisions?",
+        "options": [
+          "Parliament",
+          "Attorney General",
+          "Council of Ministers",
+          "Vice President"
+        ],
+        "correctAnswer": "Council of Ministers",
+        "explanation": "The Council of Ministers, led by the Prime Minister, advises the President on executive decisions."
+      }
+    ],
+    "set1": [
+      {
+        "question": "What is the primary duty of the President as per Article 60?",
+        "options": [
+          "Protect the Constitution",
+          "Defend the Parliament",
+          "Serve as Military Commander",
+          "Oversee Judiciary"
+        ],
+        "correctAnswer": "Protect the Constitution",
+        "explanation": "Article 60 emphasizes the President's duty to preserve, protect, and defend the Constitution."
+      },
+      {
+        "question": "Which article mandates that no money bill can be introduced without the President's recommendation?",
+        "options": [
+          "Article 109",
+          "Article 110",
+          "Article 117",
+          "Article 118"
+        ],
+        "correctAnswer": "Article 117",
+        "explanation": "Article 117 requires the President’s recommendation for introducing money bills."
+      },
+      {
+        "question": "What power does Article 111 give to the President?",
+        "options": [
+          "Assent to Bills",
+          "Nominate Judges",
+          "Dissolve Parliament",
+          "Appoint Governors"
+        ],
+        "correctAnswer": "Assent to Bills",
+        "explanation": "Article 111 grants the President the power to give or withhold assent to bills."
+      },
+      {
+        "question": "Who represents India in diplomatic relations as per Article 53?",
+        "options": [
+          "Prime Minister",
+          "President",
+          "Foreign Minister",
+          "Chief Justice"
+        ],
+        "correctAnswer": "President",
+        "explanation": "Article 53 establishes the President as the ceremonial representative in diplomatic affairs."
+      },
+      {
+        "question": "Which power allows the President to dissolve the Lok Sabha?",
+        "options": [
+          "Executive power",
+          "Legislative power",
+          "Military power",
+          "Emergency power"
+        ],
+        "correctAnswer": "Legislative power",
+        "explanation": "The President can dissolve the Lok Sabha using legislative powers."
+      },
+      {
+        "question": "What does Article 368 empower the President to do?",
+        "options": [
+          "Amend the Constitution",
+          "Veto bills",
+          "Nominate MPs",
+          "Impeach judges"
+        ],
+        "correctAnswer": "Amend the Constitution",
+        "explanation": "Article 368 allows the President to approve Constitutional amendments passed by Parliament."
+      },
+      {
+        "question": "Who has the authority to call a joint session of Parliament?",
+        "options": [
+          "Prime Minister",
+          "Chief Justice",
+          "President",
+          "Lok Sabha Speaker"
+        ],
+        "correctAnswer": "President",
+        "explanation": "The President can call a joint session to resolve disagreements between the Lok Sabha and Rajya Sabha."
+      },
+      {
+        "question": "What role does the President play in the administration of Union Territories?",
+        "options": [
+          "Ceremonial",
+          "Operational",
+          "Supervisory",
+          "None"
+        ],
+        "correctAnswer": "Supervisory",
+        "explanation": "The President oversees the administration of Union Territories through appointed officials."
+      },
+      {
+        "question": "Which official does the President appoint on the advice of the Prime Minister?",
+        "options": [
+          "Governor",
+          "Chief Justice",
+          "Vice President",
+          "Speaker"
+        ],
+        "correctAnswer": "Governor",
+        "explanation": "The President appoints Governors of states based on the Prime Minister's advice."
+      },
+      {
+        "question": "What does Article 85 empower the President to do with respect to the Parliament?",
+        "options": [
+          "Summon sessions",
+          "Assent to bills",
+          "Nominate judges",
+          "Issue pardons"
+        ],
+        "correctAnswer": "Summon sessions",
+        "explanation": "Article 85 allows the President to summon and prorogue sessions of Parliament."
+      }
+    ],
+    "set2": [
+      {
+        "question": "Under which emergency does the President have authority to override state powers?",
+        "options": [
+          "National Emergency",
+          "Financial Emergency",
+          "State Emergency",
+          "None"
+        ],
+        "correctAnswer": "National Emergency",
+        "explanation": "During a National Emergency, the President can override certain state powers."
+      },
+      {
+        "question": "Who advises the President on appointing the Chief Justice?",
+        "options": [
+          "Attorney General",
+          "Prime Minister",
+          "Council of Ministers",
+          "Judiciary"
+        ],
+        "correctAnswer": "Prime Minister",
+        "explanation": "The Prime Minister advises the President on judicial appointments, including the Chief Justice."
+      },
+      {
+        "question": "Which article allows the President to issue ordinances?",
+        "options": [
+          "Article 123",
+          "Article 126",
+          "Article 127",
+          "Article 129"
+        ],
+        "correctAnswer": "Article 123",
+        "explanation": "The President can issue ordinances under Article 123 when Parliament is not in session."
+      },
+      {
+        "question": "Which article grants the President the power to address both Houses of Parliament?",
+        "options": [
+          "Article 87",
+          "Article 88",
+          "Article 89",
+          "Article 90"
+        ],
+        "correctAnswer": "Article 87",
+        "explanation": "Article 87 enables the President to address Parliament at the beginning of each session."
+      },
+      {
+        "question": "Which type of emergency can the President declare during a financial crisis?",
+        "options": [
+          "Financial Emergency",
+          "National Emergency",
+          "State Emergency",
+          "Public Emergency"
+        ],
+        "correctAnswer": "Financial Emergency",
+        "explanation": "The President can declare a Financial Emergency if India's financial stability is threatened."
+      },
+      {
+        "question": "Who can dissolve the Lok Sabha under Article 85(2)(b)?",
+        "options": [
+          "President",
+          "Prime Minister",
+          "Lok Sabha Speaker",
+          "Chief Justice"
+        ],
+        "correctAnswer": "President",
+        "explanation": "The President has the authority to dissolve the Lok Sabha as per Article 85(2)(b)."
+      },
+      {
+        "question": "Which official is appointed by the President to the Finance Commission?",
+        "options": [
+          "Governor",
+          "Comptroller and Auditor General",
+          "Chief Minister",
+          "Finance Secretary"
+        ],
+        "correctAnswer": "Comptroller and Auditor General",
+        "explanation": "The President appoints the CAG to oversee government financial accountability."
+      },
+      {
+        "question": "What does Article 54 define in terms of Presidential elections?",
+        "options": [
+          "Electoral College composition",
+          "Nomination process",
+          "Campaign requirements",
+          "Voting procedure"
+        ],
+        "correctAnswer": "Electoral College composition",
+        "explanation": "Article 54 defines the Electoral College composition for electing the President."
+      },
+      {
+        "question": "Who must the President consult before appointing High Court judges?",
+        "options": [
+          "Prime Minister",
+          "Chief Justice",
+          "Council of Ministers",
+          "Governor"
+        ],
+        "correctAnswer": "Chief Justice",
+        "explanation": "The President consults the Chief Justice before appointing High Court judges."
+      },
+      {
+        "question": "What role does the President hold in the Armed Forces as per Article 53?",
+        "options": [
+          "Supreme Commander",
+          "Ceremonial Head",
+          "Military Advisor",
+          "None"
+        ],
+        "correctAnswer": "Supreme Commander",
+        "explanation": "Article 53 establishes the President as the Supreme Commander of the Armed Forces."
+      }
+    ],
+    "set3": [
+      {
+        "question": "Which article empowers the President to nominate members to Rajya Sabha?",
+        "options": [
+          "Article 80",
+          "Article 85",
+          "Article 90",
+          "Article 95"
+        ],
+        "correctAnswer": "Article 80",
+        "explanation": "The President can nominate 12 members to the Rajya Sabha as per Article 80."
+      },
+      {
+        "question": "What is Article 51’s main aim?",
+        "options": [
+          "International peace",
+          "Financial stability",
+          "Internal security",
+          "Economic growth"
+        ],
+        "correctAnswer": "International peace",
+        "explanation": "Article 51 emphasizes India's commitment to international peace and security."
+      },
+      {
+        "question": "Which article allows the President to create an Inter-State Council?",
+        "options": [
+          "Article 263",
+          "Article 264",
+          "Article 265",
+          "Article 266"
+        ],
+        "correctAnswer": "Article 263",
+        "explanation": "Article 263 empowers the President to establish an Inter-State Council."
+      },
+      {
+        "question": "What is the main role of the President regarding the Union Territories?",
+        "options": [
+          "Administrative",
+          "Legislative",
+          "Military",
+          "Judicial"
+        ],
+        "correctAnswer": "Administrative",
+        "explanation": "The President is responsible for administering Union Territories."
+      },
+      {
+        "question": "What does Article 48A focus on?",
+        "options": [
+          "Environmental protection",
+          "Judicial independence",
+          "Economic equality",
+          "Internal security"
+        ],
+        "correctAnswer": "Environmental protection",
+        "explanation": "Article 48A aims to protect and improve the environment and safeguard wildlife."
+      },
+      {
+        "question": "Which article mentions the President's duty to address Parliament?",
+        "options": [
+          "Article 87",
+          "Article 52",
+          "Article 110",
+          "Article 143"
+        ],
+        "correctAnswer": "Article 87",
+        "explanation": "Article 87 requires the President to address both houses of Parliament."
+      },
+      {
+        "question": "Which article provides for a uniform civil code?",
+        "options": [
+          "Article 44",
+          "Article 45",
+          "Article 46",
+          "Article 47"
+        ],
+        "correctAnswer": "Article 44",
+        "explanation": "Article 44 proposes the establishment of a uniform civil code for citizens."
+      },
+      {
+        "question": "Who appoints the Prime Minister of India?",
+        "options": [
+          "President",
+          "Lok Sabha Speaker",
+          "Chief Justice",
+          "Rajya Sabha Chairperson"
+        ],
+        "correctAnswer": "President",
+        "explanation": "The President appoints the Prime Minister based on majority support in Lok Sabha."
+      },
+      {
+        "question": "What is the President’s role in financial legislation?",
+        "options": [
+          "Recommend money bills",
+          "Declare financial emergency",
+          "Raise taxes",
+          "Manage state budgets"
+        ],
+        "correctAnswer": "Recommend money bills",
+        "explanation": "The President's recommendation is needed to introduce money bills."
+      },
+      {
+        "question": "What is Article 39A about?",
+        "options": [
+          "Equal justice",
+          "Health of citizens",
+          "Economic growth",
+          "International relations"
+        ],
+        "correctAnswer": "Equal justice",
+        "explanation": "Article 39A promotes equal justice and free legal aid."
+      }
+    ]
+  },
+"week4": {
+  "pyq": [
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": [
+        "Mark Twain",
+        "Jane Austen",
+        "William Shakespeare",
+        "Charles Dickens"
+      ],
+      "correctAnswer": "William Shakespeare",
+      "explanation": "'Romeo and Juliet' is one of the most famous plays by William Shakespeare."
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "correctAnswer": "2",
+      "explanation": "2 is the smallest and the only even prime number."
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Helium"
+      ],
+      "correctAnswer": "Carbon Dioxide",
+      "explanation": "Plants absorb carbon dioxide during photosynthesis."
+    }
+  ],
+  "set1": [
+    {
+      "question": "What is the primary role of the Parliament in India?",
+      "options": [
+        "Judiciary",
+        "Legislation",
+        "Executive",
+        "Military"
+      ],
+      "correctAnswer": "Legislation",
+      "explanation": "The Parliament is responsible for making laws and controlling the executive on behalf of the people."
+    },
+    {
+      "question": "Which house of the Indian Parliament is known as the lower house?",
+      "options": [
+        "Rajya Sabha",
+        "Lok Sabha",
+        "Vidhan Sabha",
+        "Vidhan Parishad"
+      ],
+      "correctAnswer": "Lok Sabha",
+      "explanation": "The Lok Sabha is the lower house of the Parliament of India, where members are directly elected by the people."
+    },
+    {
+      "question": "How many members can the Lok Sabha have at maximum?",
+      "options": [
+        "500",
+        "550",
+        "600",
+        "650"
+      ],
+      "correctAnswer": "550",
+      "explanation": "The maximum strength of the Lok Sabha is 550 members, including representatives of the Anglo-Indian community."
+    },
+    {
+      "question": "What is the term duration for a member of the Rajya Sabha?",
+      "options": [
+        "2 years",
+        "4 years",
+        "6 years",
+        "5 years"
+      ],
+      "correctAnswer": "6 years",
+      "explanation": "Members of the Rajya Sabha serve for a term of 6 years, with one-third of the members retiring every two years."
+    },
+    {
+      "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Vice-President",
+        "Speaker of Lok Sabha"
+      ],
+      "correctAnswer": "Vice-President",
+      "explanation": "The Vice-President of India serves as the ex-officio Chairman of the Rajya Sabha."
+    },
+    {
+      "question": "What is a Money Bill?",
+      "options": [
+        "A bill related to money matters",
+        "A bill that can only be introduced in Lok Sabha",
+        "A bill that requires President's approval",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above",
+      "explanation": "A Money Bill is related to money matters and can only be introduced in the Lok Sabha, requiring the President's approval."
+    },
+    {
+      "question": "Which of the following is NOT a function of the Parliament?",
+      "options": [
+        "Legislation",
+        "Budget approval",
+        "Judicial review",
+        "Representation"
+      ],
+      "correctAnswer": "Judicial review",
+      "explanation": "Judicial review is not a function of the Parliament; it is a power of the judiciary."
+    },
+    {
+      "question": "What is the minimum age to become a member of the Lok Sabha?",
+      "options": [
+        "25 years",
+        "30 years",
+        "21 years",
+        "18 years"
+      ],
+      "correctAnswer": "25 years",
+      "explanation": "A candidate must be at least 25 years old to be eligible to become a member of the Lok Sabha."
+    },
+    {
+      "question": "How can the Lok Sabha dislodge the Prime Minister?",
+      "options": [
+        "By a vote of confidence",
+        "By a no-confidence motion",
+        "By a majority vote",
+        "By Presidential order"
+      ],
+      "correctAnswer": "By a no-confidence motion",
+      "explanation": "The Lok Sabha can dislodge the Prime Minister and his Council of Ministers by passing a no-confidence motion."
+    },
+    {
+      "question": "Which of the following is a feature of the Indian parliamentary system?",
+      "options": [
+        "Bicameral legislature",
+        "Single-party dominance",
+        "Direct elections only",
+        "No opposition"
+      ],
+      "correctAnswer": "Bicameral legislature",
+      "explanation": "India has a bicameral legislature, consisting of the Lok Sabha and the Rajya Sabha."
+    }
+  ]
+},
+"week5": {
+  "pyq": [
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": [
+        "Mark Twain",
+        "Jane Austen",
+        "William Shakespeare",
+        "Charles Dickens"
+      ],
+      "correctAnswer": "William Shakespeare",
+      "explanation": "'Romeo and Juliet' is one of the most famous plays by William Shakespeare."
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "correctAnswer": "2",
+      "explanation": "2 is the smallest and the only even prime number."
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Helium"
+      ],
+      "correctAnswer": "Carbon Dioxide",
+      "explanation": "Plants absorb carbon dioxide during photosynthesis."
+    }
+  ],
+  "set1": [
+    {
+      "question": "What is the highest judicial body in India?",
+      "options": [
+        "High Court",
+        "Supreme Court",
+        "District Court",
+        "Federal Court"
+      ],
+      "correctAnswer": "Supreme Court",
+      "explanation": "The Supreme Court of India is the highest judicial body and the ultimate justice delivery mechanism in the country."
+    },
+    {
+      "question": "What is the current composition of the Supreme Court as per the Supreme Court (Number of Judges) Amendment Act, 2019?",
+      "options": [
+        "30 + CJI",
+        "33 + CJI",
+        "25 + CJI",
+        "17 + CJI"
+      ],
+      "correctAnswer": "33 + CJI",
+      "explanation": "As per the Supreme Court (Number of Judges) Amendment Act, 2019, the Supreme Court comprises 33 judges plus the Chief Justice of India."
+    },
+    {
+      "question": "What is the minimum age required to be a member of the Legislative Assembly in India?",
+      "options": [
+        "25 years",
+        "30 years",
+        "21 years",
+        "18 years"
+      ],
+      "correctAnswer": "25 years",
+      "explanation": "A person must be at least 25 years of age to be eligible for election to the Legislative Assembly in India."
+    },
+    {
+      "question": "Which article of the Constitution states that the Supreme Court shall sit in Delhi?",
+      "options": [
+        "Article 130",
+        "Article 32",
+        "Article 14",
+        "Article 21"
+      ],
+      "correctAnswer": "Article 130",
+      "explanation": "Article 130 of the Constitution of India states that the Supreme Court shall sit in Delhi or in such other places as appointed by the Chief Justice."
+    },
+    {
+      "question": "What is the role of the Supreme Court in the Indian judicial system?",
+      "options": [
+        "Final appellate authority",
+        "Trial court",
+        "District court",
+        "High court"
+      ],
+      "correctAnswer": "Final appellate authority",
+      "explanation": "The Supreme Court serves as the final platform for appeal in India, making its judgments binding on all other courts."
+    },
+    {
+      "question": "What is the minimum age required to be a member of the Legislative Council in India?",
+      "options": [
+        "30 years",
+        "25 years",
+        "21 years",
+        "18 years"
+      ],
+      "correctAnswer": "30 years",
+      "explanation": "A person must be at least 30 years of age to be eligible for election to the Legislative Council in India."
+    },
+    {
+      "question": "Which of the following is NOT a qualification for being elected to the state legislature?",
+      "options": [
+        "Citizen of India",
+        "Elector for an assembly constituency",
+        "Resident of the state",
+        "Must be a lawyer"
+      ],
+      "correctAnswer": "Must be a lawyer",
+      "explanation": "There is no requirement for a candidate to be a lawyer to be elected to the state legislature."
+    },
+    {
+      "question": "What does 'Judicial Activism' refer to in the context of the Supreme Court?",
+      "options": [
+        "Strict interpretation of laws",
+        "Proactive role in protecting rights",
+        "Judicial restraint",
+        "None of the above"
+      ],
+      "correctAnswer": "Proactive role in protecting rights",
+      "explanation": "Judicial Activism refers to the proactive role of the judiciary in protecting the rights of individuals and ensuring justice."
+    },
+    {
+      "question": "Which body is responsible for the appointment of judges in the Supreme Court?",
+      "options": [
+        "Parliament",
+        "President of India",
+        "Chief Justice of India",
+        "Prime Minister"
+      ],
+      "correctAnswer": "Chief Justice of India",
+      "explanation": "The appointment of judges in the Supreme Court is primarily done by the Chief Justice of India, along with other senior judges."
+    },
+    {
+      "question": "What is the primary function of the Legislative Assembly?",
+      "options": [
+        "Judicial review",
+        "Law-making",
+        "Executive decisions",
+        "Constitutional amendments"
+      ],
+      "correctAnswer": "Law-making",
+      "explanation": "The primary function of the Legislative Assembly is to make laws for the state."
+    }
+  ]
+},
+"week6": {
+  "pyq": [
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": [
+        "Mark Twain",
+        "Jane Austen",
+        "William Shakespeare",
+        "Charles Dickens"
+      ],
+      "correctAnswer": "William Shakespeare",
+      "explanation": "'Romeo and Juliet' is one of the most famous plays by William Shakespeare."
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "correctAnswer": "2",
+      "explanation": "2 is the smallest and the only even prime number."
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Helium"
+      ],
+      "correctAnswer": "Carbon Dioxide",
+      "explanation": "Plants absorb carbon dioxide during photosynthesis."
+    }
+  ],
+  "set1": [
+    {
+      "question": "What are the three types of municipalities established by the act?",
+      "options": [
+        "Nagar panchayat, Municipal council, Municipal corporation",
+        "Village panchayat, Block samiti, Zila parishad",
+        "City council, Town council, Borough council",
+        "District council, Local authority, Urban council"
+      ],
+      "correctAnswer": "Nagar panchayat, Municipal council, Municipal corporation",
+      "explanation": "The act provides for the constitution of a Nagar panchayat for transitional areas, a municipal council for smaller urban areas, and a municipal corporation for larger urban areas ."
+    },
+    {
+      "question": "Which amendment to the Constitution of India gave constitutional status to municipalities?",
+      "options": [
+        "61st Amendment",
+        "73rd Amendment",
+        "74th Amendment",
+        "86th Amendment"
+      ],
+      "correctAnswer": "74th Amendment",
+      "explanation": "The 74th Constitution Amendment Act, 1992, gave constitutional status to municipalities and outlined their governance structure ."
+    },
+    {
+      "question": "What is the primary objective of the 74th Constitution Amendment Act?",
+      "options": [
+        "To abolish local self-governments",
+        "To strengthen and revitalize urban local government",
+        "To centralize power in the state",
+        "To create a new tier of government"
+      ],
+      "correctAnswer": "To strengthen and revitalize urban local government",
+      "explanation": "The objective of the 74th Amendment is to strengthen and revitalize urban local government ."
+    },
+    {
+      "question": "Which state was the first to implement the Panchayat Samitis and Zila Parishad Act?",
+      "options": [
+        "Andhra Pradesh",
+        "Mysore",
+        "Rajasthan",
+        "Punjab"
+      ],
+      "correctAnswer": "Rajasthan",
+      "explanation": "Rajasthan was the first state to implement the Panchayat Samitis and Zila Parishad Act on October 2, 1959 ."
+    },
+    {
+      "question": "What is the structure of local self-governance at the district level?",
+      "options": [
+        "Panchayats, Block samitis, Zila parishads",
+        "Municipal councils, Nagar panchayats, Municipal corporations",
+        "City councils, Town councils, Borough councils",
+        "District councils, Local authorities, Urban councils"
+      ],
+      "correctAnswer": "Panchayats, Block samitis, Zila parishads",
+      "explanation": "The structure of local self-governance at the district level includes Zila parishads at the district level, Block samitis at the block level, and Panchayats at the village level ."
+    },
+    {
+      "question": "Which article of the Constitution pertains to the composition of municipalities?",
+      "options": [
+        "Article 243A",
+        "Article 243B",
+        "Article 243P",
+        "Article 243Z"
+      ],
+      "correctAnswer": "Article 243P",
+      "explanation": "Article 243P of the Constitution pertains to the composition of municipalities as part of the 74th Amendment ."
+    },
+    {
+      "question": "What is included in the 12th Schedule of the Constitution?",
+      "options": [
+        "List of subjects for Panchayati Raj",
+        "List of subjects for municipalities",
+        "List of fundamental rights",
+        "List of directive principles"
+      ],
+      "correctAnswer": "List of subjects for municipalities",
+      "explanation": "The 12th Schedule of the Constitution includes the functional items of the municipalities as per the 74th Amendment ."
+    },
+    {
+      "question": "Which of the following is NOT a type of municipality as per the act?",
+      "options": [
+        "Nagar panchayat",
+        "Municipal council",
+        "Municipal corporation",
+        "Gram panchayat"
+      ],
+      "correctAnswer": "Gram panchayat",
+      "explanation": "Gram panchayat is a rural local government body, while Nagar panchayat, Municipal council, and Municipal corporation are urban local government bodies ."
+    },
+    {
+      "question": "What is the role of state governments concerning the new system of municipalities?",
+      "options": [
+        "They can choose to ignore it",
+        "They are obligated to adopt it",
+        "They can modify it as they wish",
+        "They have no role"
+      ],
+      "correctAnswer": "They are obligated to adopt it",
+      "explanation": "State governments are under obligation to adopt the new system of municipalities as mandated by the 74th Amendment ."
+    },
+    {
+      "question": "Which of the following acts was implemented in 1959 in Assam?",
+      "options": [
+        "Assam Panchayat Act",
+        "Mysore Village Panchayats and Local Board Act",
+        "Madras Panchayat Act",
+        "Punjab Panchayat Samitis and Zila Parishad Act"
+      ],
+      "correctAnswer": "Assam Panchayat Act",
+      "explanation": "The Assam Panchayat Act was implemented in 1959 as part of the establishment of local self-governance ."
+    }
+  ]
+}
 }
