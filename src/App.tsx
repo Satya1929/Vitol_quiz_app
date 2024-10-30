@@ -92,8 +92,15 @@ function App() {
     return [];
   };
 
+  // if (stage === 'contributors') {
+  //   return <Contributors />;
+  // }
+
   if (stage === 'contributors') {
-    return <Contributors />;
+    return <Contributors 
+      onBack={() => setStage('weeks')}
+      onHome={handleHome}
+    />;
   }
 
   return (
