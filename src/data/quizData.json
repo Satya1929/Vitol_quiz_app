@@ -1125,451 +1125,726 @@
       }
     ]
   },
-"week4": {
-  "pyq": [
-    {
-      "question": "Who wrote 'Romeo and Juliet'?",
-      "options": [
-        "Mark Twain",
-        "Jane Austen",
-        "William Shakespeare",
-        "Charles Dickens"
-      ],
-      "correctAnswer": "William Shakespeare",
-      "explanation": "'Romeo and Juliet' is one of the most famous plays by William Shakespeare."
-    },
-    {
-      "question": "What is the smallest prime number?",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "5"
-      ],
-      "correctAnswer": "2",
-      "explanation": "2 is the smallest and the only even prime number."
-    },
-    {
-      "question": "What gas do plants absorb from the atmosphere?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Helium"
-      ],
-      "correctAnswer": "Carbon Dioxide",
-      "explanation": "Plants absorb carbon dioxide during photosynthesis."
-    }
-  ],
-  "set1": [
-    {
-      "question": "What is the primary role of the Parliament in India?",
-      "options": [
-        "Judiciary",
-        "Legislation",
-        "Executive",
-        "Military"
-      ],
-      "correctAnswer": "Legislation",
-      "explanation": "The Parliament is responsible for making laws and controlling the executive on behalf of the people."
-    },
-    {
-      "question": "Which house of the Indian Parliament is known as the lower house?",
-      "options": [
-        "Rajya Sabha",
-        "Lok Sabha",
-        "Vidhan Sabha",
-        "Vidhan Parishad"
-      ],
-      "correctAnswer": "Lok Sabha",
-      "explanation": "The Lok Sabha is the lower house of the Parliament of India, where members are directly elected by the people."
-    },
-    {
-      "question": "How many members can the Lok Sabha have at maximum?",
-      "options": [
-        "500",
-        "550",
-        "600",
-        "650"
-      ],
-      "correctAnswer": "550",
-      "explanation": "The maximum strength of the Lok Sabha is 550 members, including representatives of the Anglo-Indian community."
-    },
-    {
-      "question": "What is the term duration for a member of the Rajya Sabha?",
-      "options": [
-        "2 years",
-        "4 years",
-        "6 years",
-        "5 years"
-      ],
-      "correctAnswer": "6 years",
-      "explanation": "Members of the Rajya Sabha serve for a term of 6 years, with one-third of the members retiring every two years."
-    },
-    {
-      "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
-      "options": [
-        "Prime Minister",
-        "President",
-        "Vice-President",
-        "Speaker of Lok Sabha"
-      ],
-      "correctAnswer": "Vice-President",
-      "explanation": "The Vice-President of India serves as the ex-officio Chairman of the Rajya Sabha."
-    },
-    {
-      "question": "What is a Money Bill?",
-      "options": [
-        "A bill related to money matters",
-        "A bill that can only be introduced in Lok Sabha",
-        "A bill that requires President's approval",
-        "All of the above"
-      ],
-      "correctAnswer": "All of the above",
-      "explanation": "A Money Bill is related to money matters and can only be introduced in the Lok Sabha, requiring the President's approval."
-    },
-    {
-      "question": "Which of the following is NOT a function of the Parliament?",
-      "options": [
-        "Legislation",
-        "Budget approval",
-        "Judicial review",
-        "Representation"
-      ],
-      "correctAnswer": "Judicial review",
-      "explanation": "Judicial review is not a function of the Parliament; it is a power of the judiciary."
-    },
-    {
-      "question": "What is the minimum age to become a member of the Lok Sabha?",
-      "options": [
-        "25 years",
-        "30 years",
-        "21 years",
-        "18 years"
-      ],
-      "correctAnswer": "25 years",
-      "explanation": "A candidate must be at least 25 years old to be eligible to become a member of the Lok Sabha."
-    },
-    {
-      "question": "How can the Lok Sabha dislodge the Prime Minister?",
-      "options": [
-        "By a vote of confidence",
-        "By a no-confidence motion",
-        "By a majority vote",
-        "By Presidential order"
-      ],
-      "correctAnswer": "By a no-confidence motion",
-      "explanation": "The Lok Sabha can dislodge the Prime Minister and his Council of Ministers by passing a no-confidence motion."
-    },
-    {
-      "question": "Which of the following is a feature of the Indian parliamentary system?",
-      "options": [
-        "Bicameral legislature",
-        "Single-party dominance",
-        "Direct elections only",
-        "No opposition"
-      ],
-      "correctAnswer": "Bicameral legislature",
-      "explanation": "India has a bicameral legislature, consisting of the Lok Sabha and the Rajya Sabha."
-    }
-  ]
-},
-"week5": {
-  "pyq": [
-    {
-      "question": "Who wrote 'Romeo and Juliet'?",
-      "options": [
-        "Mark Twain",
-        "Jane Austen",
-        "William Shakespeare",
-        "Charles Dickens"
-      ],
-      "correctAnswer": "William Shakespeare",
-      "explanation": "'Romeo and Juliet' is one of the most famous plays by William Shakespeare."
-    },
-    {
-      "question": "What is the smallest prime number?",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "5"
-      ],
-      "correctAnswer": "2",
-      "explanation": "2 is the smallest and the only even prime number."
-    },
-    {
-      "question": "What gas do plants absorb from the atmosphere?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Helium"
-      ],
-      "correctAnswer": "Carbon Dioxide",
-      "explanation": "Plants absorb carbon dioxide during photosynthesis."
-    }
-  ],
-  "set1": [
-    {
-      "question": "What is the highest judicial body in India?",
-      "options": [
-        "High Court",
-        "Supreme Court",
-        "District Court",
-        "Federal Court"
-      ],
-      "correctAnswer": "Supreme Court",
-      "explanation": "The Supreme Court of India is the highest judicial body and the ultimate justice delivery mechanism in the country."
-    },
-    {
-      "question": "What is the current composition of the Supreme Court as per the Supreme Court (Number of Judges) Amendment Act, 2019?",
-      "options": [
-        "30 + CJI",
-        "33 + CJI",
-        "25 + CJI",
-        "17 + CJI"
-      ],
-      "correctAnswer": "33 + CJI",
-      "explanation": "As per the Supreme Court (Number of Judges) Amendment Act, 2019, the Supreme Court comprises 33 judges plus the Chief Justice of India."
-    },
-    {
-      "question": "What is the minimum age required to be a member of the Legislative Assembly in India?",
-      "options": [
-        "25 years",
-        "30 years",
-        "21 years",
-        "18 years"
-      ],
-      "correctAnswer": "25 years",
-      "explanation": "A person must be at least 25 years of age to be eligible for election to the Legislative Assembly in India."
-    },
-    {
-      "question": "Which article of the Constitution states that the Supreme Court shall sit in Delhi?",
-      "options": [
-        "Article 130",
-        "Article 32",
-        "Article 14",
-        "Article 21"
-      ],
-      "correctAnswer": "Article 130",
-      "explanation": "Article 130 of the Constitution of India states that the Supreme Court shall sit in Delhi or in such other places as appointed by the Chief Justice."
-    },
-    {
-      "question": "What is the role of the Supreme Court in the Indian judicial system?",
-      "options": [
-        "Final appellate authority",
-        "Trial court",
-        "District court",
-        "High court"
-      ],
-      "correctAnswer": "Final appellate authority",
-      "explanation": "The Supreme Court serves as the final platform for appeal in India, making its judgments binding on all other courts."
-    },
-    {
-      "question": "What is the minimum age required to be a member of the Legislative Council in India?",
-      "options": [
-        "30 years",
-        "25 years",
-        "21 years",
-        "18 years"
-      ],
-      "correctAnswer": "30 years",
-      "explanation": "A person must be at least 30 years of age to be eligible for election to the Legislative Council in India."
-    },
-    {
-      "question": "Which of the following is NOT a qualification for being elected to the state legislature?",
-      "options": [
-        "Citizen of India",
-        "Elector for an assembly constituency",
-        "Resident of the state",
-        "Must be a lawyer"
-      ],
-      "correctAnswer": "Must be a lawyer",
-      "explanation": "There is no requirement for a candidate to be a lawyer to be elected to the state legislature."
-    },
-    {
-      "question": "What does 'Judicial Activism' refer to in the context of the Supreme Court?",
-      "options": [
-        "Strict interpretation of laws",
-        "Proactive role in protecting rights",
-        "Judicial restraint",
-        "None of the above"
-      ],
-      "correctAnswer": "Proactive role in protecting rights",
-      "explanation": "Judicial Activism refers to the proactive role of the judiciary in protecting the rights of individuals and ensuring justice."
-    },
-    {
-      "question": "Which body is responsible for the appointment of judges in the Supreme Court?",
-      "options": [
-        "Parliament",
-        "President of India",
-        "Chief Justice of India",
-        "Prime Minister"
-      ],
-      "correctAnswer": "Chief Justice of India",
-      "explanation": "The appointment of judges in the Supreme Court is primarily done by the Chief Justice of India, along with other senior judges."
-    },
-    {
-      "question": "What is the primary function of the Legislative Assembly?",
-      "options": [
-        "Judicial review",
-        "Law-making",
-        "Executive decisions",
-        "Constitutional amendments"
-      ],
-      "correctAnswer": "Law-making",
-      "explanation": "The primary function of the Legislative Assembly is to make laws for the state."
-    }
-  ]
-},
-"week6": {
-  "pyq": [
-    {
-      "question": "Who wrote 'Romeo and Juliet'?",
-      "options": [
-        "Mark Twain",
-        "Jane Austen",
-        "William Shakespeare",
-        "Charles Dickens"
-      ],
-      "correctAnswer": "William Shakespeare",
-      "explanation": "'Romeo and Juliet' is one of the most famous plays by William Shakespeare."
-    },
-    {
-      "question": "What is the smallest prime number?",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "5"
-      ],
-      "correctAnswer": "2",
-      "explanation": "2 is the smallest and the only even prime number."
-    },
-    {
-      "question": "What gas do plants absorb from the atmosphere?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Helium"
-      ],
-      "correctAnswer": "Carbon Dioxide",
-      "explanation": "Plants absorb carbon dioxide during photosynthesis."
-    }
-  ],
-  "set1": [
-    {
-      "question": "What are the three types of municipalities established by the act?",
-      "options": [
-        "Nagar panchayat, Municipal council, Municipal corporation",
-        "Village panchayat, Block samiti, Zila parishad",
-        "City council, Town council, Borough council",
-        "District council, Local authority, Urban council"
-      ],
-      "correctAnswer": "Nagar panchayat, Municipal council, Municipal corporation",
-      "explanation": "The act provides for the constitution of a Nagar panchayat for transitional areas, a municipal council for smaller urban areas, and a municipal corporation for larger urban areas ."
-    },
-    {
-      "question": "Which amendment to the Constitution of India gave constitutional status to municipalities?",
-      "options": [
-        "61st Amendment",
-        "73rd Amendment",
-        "74th Amendment",
-        "86th Amendment"
-      ],
-      "correctAnswer": "74th Amendment",
-      "explanation": "The 74th Constitution Amendment Act, 1992, gave constitutional status to municipalities and outlined their governance structure ."
-    },
-    {
-      "question": "What is the primary objective of the 74th Constitution Amendment Act?",
-      "options": [
-        "To abolish local self-governments",
-        "To strengthen and revitalize urban local government",
-        "To centralize power in the state",
-        "To create a new tier of government"
-      ],
-      "correctAnswer": "To strengthen and revitalize urban local government",
-      "explanation": "The objective of the 74th Amendment is to strengthen and revitalize urban local government ."
-    },
-    {
-      "question": "Which state was the first to implement the Panchayat Samitis and Zila Parishad Act?",
-      "options": [
-        "Andhra Pradesh",
-        "Mysore",
-        "Rajasthan",
-        "Punjab"
-      ],
-      "correctAnswer": "Rajasthan",
-      "explanation": "Rajasthan was the first state to implement the Panchayat Samitis and Zila Parishad Act on October 2, 1959 ."
-    },
-    {
-      "question": "What is the structure of local self-governance at the district level?",
-      "options": [
-        "Panchayats, Block samitis, Zila parishads",
-        "Municipal councils, Nagar panchayats, Municipal corporations",
-        "City councils, Town councils, Borough councils",
-        "District councils, Local authorities, Urban councils"
-      ],
-      "correctAnswer": "Panchayats, Block samitis, Zila parishads",
-      "explanation": "The structure of local self-governance at the district level includes Zila parishads at the district level, Block samitis at the block level, and Panchayats at the village level ."
-    },
-    {
-      "question": "Which article of the Constitution pertains to the composition of municipalities?",
-      "options": [
-        "Article 243A",
-        "Article 243B",
-        "Article 243P",
-        "Article 243Z"
-      ],
-      "correctAnswer": "Article 243P",
-      "explanation": "Article 243P of the Constitution pertains to the composition of municipalities as part of the 74th Amendment ."
-    },
-    {
-      "question": "What is included in the 12th Schedule of the Constitution?",
-      "options": [
-        "List of subjects for Panchayati Raj",
-        "List of subjects for municipalities",
-        "List of fundamental rights",
-        "List of directive principles"
-      ],
-      "correctAnswer": "List of subjects for municipalities",
-      "explanation": "The 12th Schedule of the Constitution includes the functional items of the municipalities as per the 74th Amendment ."
-    },
-    {
-      "question": "Which of the following is NOT a type of municipality as per the act?",
-      "options": [
-        "Nagar panchayat",
-        "Municipal council",
-        "Municipal corporation",
-        "Gram panchayat"
-      ],
-      "correctAnswer": "Gram panchayat",
-      "explanation": "Gram panchayat is a rural local government body, while Nagar panchayat, Municipal council, and Municipal corporation are urban local government bodies ."
-    },
-    {
-      "question": "What is the role of state governments concerning the new system of municipalities?",
-      "options": [
-        "They can choose to ignore it",
-        "They are obligated to adopt it",
-        "They can modify it as they wish",
-        "They have no role"
-      ],
-      "correctAnswer": "They are obligated to adopt it",
-      "explanation": "State governments are under obligation to adopt the new system of municipalities as mandated by the 74th Amendment ."
-    },
-    {
-      "question": "Which of the following acts was implemented in 1959 in Assam?",
-      "options": [
-        "Assam Panchayat Act",
-        "Mysore Village Panchayats and Local Board Act",
-        "Madras Panchayat Act",
-        "Punjab Panchayat Samitis and Zila Parishad Act"
-      ],
-      "correctAnswer": "Assam Panchayat Act",
-      "explanation": "The Assam Panchayat Act was implemented in 1959 as part of the establishment of local self-governance ."
-    }
-  ]
-}
+  "week4": {
+    "pyq": [
+      {
+        "question": "A person who is not a Member of Parliament for a duration of ___ months loses his position as a Minister",
+        "options": [
+          "6",
+          "4",
+          "3",
+          "5"
+        ],
+        "correctAnswer": "3",
+        "explanation": "A person who is not a Member of Parliament for a duration of 3 months loses his position as a Minister."
+      },
+      {
+        "question": "Who is the first Prime Minister of India to serve two terms?",
+        "options": [
+          "Indira Gandhi",
+          "Narendra Modi",
+          "Jawaharlal Nehru",
+          "Rajiv Gandhi"
+        ],
+        "correctAnswer": "Indira Gandhi",
+        "explanation": "Indira Gandhi was the first Prime Minister of India to serve two terms."
+      },
+      {
+        "question": "The total size of the Central Council of Ministers cannot exceed ___ of the Lok Sabha (House of the People)",
+        "options": [
+          "15%",
+          "10%",
+          "20%",
+          "25%"
+        ],
+        "correctAnswer": "15%",
+        "explanation": "The total size of the Central Council of Ministers cannot exceed 15% of the Lok Sabha."
+      },
+      {
+        "question": "Which of the following is a disqualification for becoming a Member of Parliament?",
+        "options": [
+          "Undischarged insolvent",
+          "Person of sound mind",
+          "Government of India",
+          "Citizen of India"
+        ],
+        "correctAnswer": "Undischarged insolvent",
+        "explanation": "Being an undischarged insolvent is a disqualification for becoming a Member of Parliament."
+      },
+      {
+        "question": "The Speaker of the Lok Sabha has the power to give his casting vote in",
+        "options": [
+          "Finance Matters",
+          "Important matters",
+          "All cases",
+          "Equality of Votes"
+        ],
+        "correctAnswer": "Equality of Votes",
+        "explanation": "The Speaker of the Lok Sabha has the power to give his casting vote in case of a tie."
+      },
+      {
+        "question": "The President appoints a Minister by administering",
+        "options": [
+          "Oath of Loyalty to the President",
+          "Oath of Office",
+          "Oath of Secrecy",
+          "Oath of Office and Oath of Secrecy"
+        ],
+        "correctAnswer": "Oath of Office and Oath of Secrecy",
+        "explanation": "Before assuming office, a Minister is administered the Oath of Office and the Oath of Secrecy by the President."
+      },
+      {
+        "question": "The total tenure of a Rajya Sabha MP as per the Representation of the People Act, 1951 is",
+        "options": [
+          "4 years",
+          "3 years",
+          "5 years",
+          "6 years"
+        ],
+        "correctAnswer": "6 years",
+        "explanation": "The term of a Rajya Sabha MP is 6 years."
+      },
+      {
+        "question": "A bicameral legislative body comprises ____ house(s)",
+        "options": [
+          "Single",
+          "Four",
+          "Three",
+          "Dual"
+        ],
+        "correctAnswer": "Dual",
+        "explanation": "A bicameral legislature consists of two houses."
+      },
+      {
+        "question": "What is the objective of anti-defection disqualification?",
+        "options": [
+          "To discourage unprincipled defections",
+          "To encourage defection from one party to another",
+          "Both (B) and (C)",
+          "To prevent political horse trading"
+        ],
+        "correctAnswer": "To discourage unprincipled defections",
+        "explanation": "The primary objective of anti-defection laws is to discourage unprincipled defections by elected representatives."
+      },
+      {
+        "question": "Which is the Upper House of the Parliament of India?",
+        "options": [
+          "Legislative Council",
+          "Rajya Sabha",
+          "Vidhana Parishad",
+          "Lok Sabha"
+        ],
+        "correctAnswer": "Rajya Sabha",
+        "explanation": "The Rajya Sabha is the Upper House of the Indian Parliament."
+      }
+    ],
+    "set1": [
+      {
+        "question": "What is the primary role of the Parliament in India?",
+        "options": [
+          "Judiciary",
+          "Legislation",
+          "Executive",
+          "Military"
+        ],
+        "correctAnswer": "Legislation",
+        "explanation": "The Parliament is responsible for making laws and controlling the executive on behalf of the people."
+      },
+      {
+        "question": "Which house of the Indian Parliament is known as the lower house?",
+        "options": [
+          "Rajya Sabha",
+          "Lok Sabha",
+          "Vidhan Sabha",
+          "Vidhan Parishad"
+        ],
+        "correctAnswer": "Lok Sabha",
+        "explanation": "The Lok Sabha is the lower house of the Parliament of India, where members are directly elected by the people."
+      },
+      {
+        "question": "How many members can the Lok Sabha have at maximum?",
+        "options": [
+          "500",
+          "550",
+          "600",
+          "650"
+        ],
+        "correctAnswer": "550",
+        "explanation": "The maximum strength of the Lok Sabha is 550 members, including representatives of the Anglo-Indian community."
+      },
+      {
+        "question": "What is the term duration for a member of the Rajya Sabha?",
+        "options": [
+          "2 years",
+          "4 years",
+          "6 years",
+          "5 years"
+        ],
+        "correctAnswer": "6 years",
+        "explanation": "Members of the Rajya Sabha serve for a term of 6 years, with one-third of the members retiring every two years."
+      },
+      {
+        "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+        "options": [
+          "Prime Minister",
+          "President",
+          "Vice-President",
+          "Speaker of Lok Sabha"
+        ],
+        "correctAnswer": "Vice-President",
+        "explanation": "The Vice-President of India serves as the ex-officio Chairman of the Rajya Sabha."
+      },
+      {
+        "question": "What is a Money Bill?",
+        "options": [
+          "A bill related to money matters",
+          "A bill that can only be introduced in Lok Sabha",
+          "A bill that requires President's approval",
+          "All of the above"
+        ],
+        "correctAnswer": "All of the above",
+        "explanation": "A Money Bill is related to money matters and can only be introduced in the Lok Sabha, requiring the President's approval."
+      },
+      {
+        "question": "Which of the following is NOT a function of the Parliament?",
+        "options": [
+          "Legislation",
+          "Budget approval",
+          "Judicial review",
+          "Representation"
+        ],
+        "correctAnswer": "Judicial review",
+        "explanation": "Judicial review is not a function of the Parliament; it is a power of the judiciary."
+      },
+      {
+        "question": "What is the minimum age to become a member of the Lok Sabha?",
+        "options": [
+          "25 years",
+          "30 years",
+          "21 years",
+          "18 years"
+        ],
+        "correctAnswer": "25 years",
+        "explanation": "A candidate must be at least 25 years old to be eligible to become a member of the Lok Sabha."
+      },
+      {
+        "question": "How can the Lok Sabha dislodge the Prime Minister?",
+        "options": [
+          "By a vote of confidence",
+          "By a no-confidence motion",
+          "By a majority vote",
+          "By Presidential order"
+        ],
+        "correctAnswer": "By a no-confidence motion",
+        "explanation": "The Lok Sabha can dislodge the Prime Minister and his Council of Ministers by passing a no-confidence motion."
+      },
+      {
+        "question": "Which of the following is a feature of the Indian parliamentary system?",
+        "options": [
+          "Bicameral legislature",
+          "Single-party dominance",
+          "Direct elections only",
+          "No opposition"
+        ],
+        "correctAnswer": "Bicameral legislature",
+        "explanation": "India has a bicameral legislature, consisting of the Lok Sabha and the Rajya Sabha."
+      }
+    ]
+  },
+  "week5": {
+    "pyq": [
+      {
+        "question": "The Concept of Individual Responsibility of a Minister is reflected in",
+        "options": [
+          "Art. 164",
+          "Art. 162",
+          "Art. 163",
+          "Art. 161"
+        ],
+        "correctAnswer": "Art. 164",
+        "explanation": "Article 164 of the Indian Constitution deals with the Council of Ministers and their individual responsibility to the Legislative Assembly."
+      },
+      {
+        "question": "The Supreme Court has ruled that National Judicial Appointment Commission (NJAC) is",
+        "options": [
+          "Constitutional",
+          "Fair and Reasonable",
+          "Legal",
+          "Unconstitutional"
+        ],
+        "correctAnswer": "Unconstitutional",
+        "explanation": "In the case of India v. Subramanian Swamy, the Supreme Court declared the NJAC unconstitutional, stating that it violated the basic structure of the Constitution."
+      },
+      {
+        "question": "What is the minimum age for becoming a Governor of state in India?",
+        "options": [
+          "45 years",
+          "30 years",
+          "35 years",
+          "25 years"
+        ],
+        "correctAnswer": "35 years",
+        "explanation": "Article 157 of the Indian Constitution specifies that a person must be at least 35 years old to be eligible for appointment as a Governor of a state."
+      },
+      {
+        "question": "A retired judge of the Supreme Court is",
+        "options": [
+          "Allowed to practice in High Courts and Supreme Court",
+          "Not Allowed to practice in any court or before any authority within India",
+          "Allowed to practice in High Courts only",
+          "Allowed to practice in Supreme Court only"
+        ],
+        "correctAnswer": "Not Allowed to practice in any court or before any authority within India",
+        "explanation": "Retired judges of the Supreme Court are prohibited from practicing law in any court or before any authority within India."
+      },
+      {
+        "question": "The members of the State Legislative Assemblies are elected",
+        "options": [
+          "Nominated by the Parliament",
+          "Appointed by the Governor",
+          "Directly through Universal Adult Franchise",
+          "Indirectly through proportional representation"
+        ],
+        "correctAnswer": "Directly through Universal Adult Franchise",
+        "explanation": "Members of State Legislative Assemblies are directly elected by the people through universal adult franchise."
+      },
+      {
+        "question": "Which is the highest judicial body in India?",
+        "options": [
+          "Supreme Court",
+          "High Court",
+          "International Court of Justice",
+          "National Green Tribunal"
+        ],
+        "correctAnswer": "Supreme Court",
+        "explanation": "The Supreme Court is the highest judicial body in India."
+      },
+      {
+        "question": "A person can hold the post of Governor in",
+        "options": [
+          "Two States only",
+          "One State only",
+          "No State",
+          "Two or more states"
+        ],
+        "correctAnswer": "Two or more states",
+        "explanation": "A person can hold the post of Governor in two or more states simultaneously."
+      },
+      {
+        "question": "Chief Ministers of all the states are ex-officio members of the",
+        "options": [
+          "Finance Comrpission",
+          "Planning Commission",
+          "Inter State Council",
+          "National Development Council"
+        ],
+        "correctAnswer": "National Development Council",
+        "explanation": "Chief Ministers of all the states are ex-officio members of the National Development Council."
+      },
+      {
+        "question": "The Supreme Court is the highest court of appeal in",
+        "options": [
+          "All the above",
+          "Criminal matters",
+          "Civil matters",
+          "Constitutional matters"
+        ],
+        "correctAnswer": "All the above",
+        "explanation": "The Supreme Court is the highest court of appeal in all matters, including criminal, civil, and constitutional matters."
+      },
+      {
+        "question": "The case of SP Gupta v. Union of India is also known as the",
+        "options": [
+          "First Judges Case",
+          "Fourth Judges Case",
+          "Third Judges Case",
+          "Second Judges Case"
+        ],
+        "correctAnswer": "First Judges Case",
+        "explanation": "The SP Gupta v. Union of India case is commonly referred to as the First Judges Case."
+      }
+    ],
+    "set1": [
+      {
+        "question": "What is the highest judicial body in India?",
+        "options": [
+          "High Court",
+          "Supreme Court",
+          "District Court",
+          "Federal Court"
+        ],
+        "correctAnswer": "Supreme Court",
+        "explanation": "The Supreme Court of India is the highest judicial body and the ultimate justice delivery mechanism in the country."
+      },
+      {
+        "question": "What is the current composition of the Supreme Court as per the Supreme Court (Number of Judges) Amendment Act, 2019?",
+        "options": [
+          "30 + CJI",
+          "33 + CJI",
+          "25 + CJI",
+          "17 + CJI"
+        ],
+        "correctAnswer": "33 + CJI",
+        "explanation": "As per the Supreme Court (Number of Judges) Amendment Act, 2019, the Supreme Court comprises 33 judges plus the Chief Justice of India."
+      },
+      {
+        "question": "What is the minimum age required to be a member of the Legislative Assembly in India?",
+        "options": [
+          "25 years",
+          "30 years",
+          "21 years",
+          "18 years"
+        ],
+        "correctAnswer": "25 years",
+        "explanation": "A person must be at least 25 years of age to be eligible for election to the Legislative Assembly in India."
+      },
+      {
+        "question": "Which article of the Constitution states that the Supreme Court shall sit in Delhi?",
+        "options": [
+          "Article 130",
+          "Article 32",
+          "Article 14",
+          "Article 21"
+        ],
+        "correctAnswer": "Article 130",
+        "explanation": "Article 130 of the Constitution of India states that the Supreme Court shall sit in Delhi or in such other places as appointed by the Chief Justice."
+      },
+      {
+        "question": "What is the role of the Supreme Court in the Indian judicial system?",
+        "options": [
+          "Final appellate authority",
+          "Trial court",
+          "District court",
+          "High court"
+        ],
+        "correctAnswer": "Final appellate authority",
+        "explanation": "The Supreme Court serves as the final platform for appeal in India, making its judgments binding on all other courts."
+      },
+      {
+        "question": "What is the minimum age required to be a member of the Legislative Council in India?",
+        "options": [
+          "30 years",
+          "25 years",
+          "21 years",
+          "18 years"
+        ],
+        "correctAnswer": "30 years",
+        "explanation": "A person must be at least 30 years of age to be eligible for election to the Legislative Council in India."
+      },
+      {
+        "question": "Which of the following is NOT a qualification for being elected to the state legislature?",
+        "options": [
+          "Citizen of India",
+          "Elector for an assembly constituency",
+          "Resident of the state",
+          "Must be a lawyer"
+        ],
+        "correctAnswer": "Must be a lawyer",
+        "explanation": "There is no requirement for a candidate to be a lawyer to be elected to the state legislature."
+      },
+      {
+        "question": "What does 'Judicial Activism' refer to in the context of the Supreme Court?",
+        "options": [
+          "Strict interpretation of laws",
+          "Proactive role in protecting rights",
+          "Judicial restraint",
+          "None of the above"
+        ],
+        "correctAnswer": "Proactive role in protecting rights",
+        "explanation": "Judicial Activism refers to the proactive role of the judiciary in protecting the rights of individuals and ensuring justice."
+      },
+      {
+        "question": "Which body is responsible for the appointment of judges in the Supreme Court?",
+        "options": [
+          "Parliament",
+          "President of India",
+          "Chief Justice of India",
+          "Prime Minister"
+        ],
+        "correctAnswer": "Chief Justice of India",
+        "explanation": "The appointment of judges in the Supreme Court is primarily done by the Chief Justice of India, along with other senior judges."
+      },
+      {
+        "question": "What is the primary function of the Legislative Assembly?",
+        "options": [
+          "Judicial review",
+          "Law-making",
+          "Executive decisions",
+          "Constitutional amendments"
+        ],
+        "correctAnswer": "Law-making",
+        "explanation": "The primary function of the Legislative Assembly is to make laws for the state."
+      }
+    ]
+  },
+  "week6": {
+    "pyq": [
+      {
+        "question": "The authority responsible for the protection of right of persons with disabilities is",
+        "options": [
+          "Chief Commissioner for Persons with Disabilities",
+          "National Commission for Differently Abled",
+          "National Commission for Persons with Disabilities",
+          "National Commission for the Physically Challenged"
+        ],
+        "correctAnswer": "Chief Commissioner for Persons with Disabilities",
+        "explanation": "The Chief Commissioner for Persons with Disabilities is responsible for the protection and empowerment of persons with disabilities."
+      },
+      {
+        "question": "NHRC is established as per Principles",
+        "options": [
+          "Bangkok",
+          "Paris",
+          "Cairo",
+          "Yogyakarta"
+        ],
+        "correctAnswer": "Paris",
+        "explanation": "The National Human Rights Commission (NHRC) was established based on the Paris Principles."
+      },
+      {
+        "question": "The Chief Election Commissioner can be removed from office by",
+        "options": [
+          "The Vice President",
+          "The Parliament",
+          "The President",
+          "The Prime Minister"
+        ],
+        "correctAnswer": "The President",
+        "explanation": "The Chief Election Commissioner can only be removed from office by the President of India."
+      },
+      {
+        "question": "The lower most unit of the rural local self-government is",
+        "options": [
+          "Nagar Panchayat",
+          "Gram Panchayat",
+          "Zilla Parishad",
+          "Panchayat Samiti"
+        ],
+        "correctAnswer": "Gram Panchayat",
+        "explanation": "The Gram Panchayat is the lowest tier of rural local self-government in India."
+      },
+      {
+        "question": "The Election Commission of India is headed by",
+        "options": [
+          "All the above",
+          "State Election Commissioner",
+          "Chief Electoral Officer",
+          "Chief Election Commissioner"
+        ],
+        "correctAnswer": "Chief Election Commissioner",
+        "explanation": "The Election Commission of India is headed by the Chief Election Commissioner."
+      },
+      {
+        "question": "A large urban area is termed as",
+        "options": [
+          "Gram Panchayat",
+          "Nagar panchayat",
+          "Municipal Council",
+          "Municipal Corporation"
+        ],
+        "correctAnswer": "Municipal Corporation",
+        "explanation": "A large urban area is typically administered by a Municipal Corporation."
+      },
+      {
+        "question": "Which of the following is an example of a Constitutional Body?",
+        "options": [
+          "National Commission for Safai Karam Charis",
+          "National Commission for Protection of Child Rights (NCPCR)",
+          "National Commission for Scheduled Castes (NCSC)",
+          "National Human Rights Commission (NHRC)"
+        ],
+        "correctAnswer": "National Commission for Scheduled Castes (NCSC)",
+        "explanation": "The National Commission for Scheduled Castes (NCSC) is a constitutional body established by the Constitution of India."
+      },
+      {
+        "question": "The Chief Election Commissioner can be removed from office by",
+        "options": [
+          "The Vice President",
+          "The Parliament",
+          "The Prime Minister",
+          "The President"
+        ],
+        "correctAnswer": "The President",
+        "explanation": "The Chief Election Commissioner can only be removed from office by the President of India."
+      },
+      {
+        "question": "The Supreme Court ruled that electors have the right to know the criminal antecedents of the electoral candidates in",
+        "options": [
+          "TN Seshan v. Union of India",
+          "SS Dhannoa v. Union of India",
+          "Common Cause v. Union of India",
+          "PUCL v. Union of India"
+        ],
+        "correctAnswer": "PUCL v. Union of India",
+        "explanation": "The Supreme Court ruled in the PUCL v. Union of India case that electors have the right to know the criminal antecedents of the electoral candidates."
+      },
+      {
+        "question": "The function of the National Human Rights Commission is provided under ____ of the Protection of Human Rights Act, 1993.",
+        "options": [
+          "Sec. 16",
+          "Sec. 8",
+          "Sec. 10",
+          "Sec. 12"
+        ],
+        "correctAnswer": "Sec. 10",
+        "explanation": "The functions of the National Human Rights Commission are outlined in Section 10 of the Protection of Human Rights Act, 1993."
+      },
+      {
+        "question": "The Protection of Human Rights Act, 1993 provides for the establishment of the",
+        "options": [
+          "National Commission for Protection of Child Rights",
+          "National Commission for Scheduled Castes",
+          "National Commission for Backward Classes",
+          "National Human Rights Commission"
+        ],
+        "correctAnswer": "National Human Rights Commission",
+        "explanation": "The Protection of Human Rights Act, 1993 establishes the National Human Rights Commission."
+      },
+      {
+        "question": "Which of the following statement is FALSE?",
+        "options": [
+          "The Election Commission of India is a constitutional body",
+          "The Election Commission of India is an independent body",
+          "The Election Commission of India is a temporary body",
+          "The Election Commission of India is a high-powered body"
+        ],
+        "correctAnswer": "The Election Commission of India is a temporary body",
+        "explanation": "The Election Commission of India is a permanent body, not a temporary one."
+      },
+      {
+        "question": "Which body is responsible for the conduct of elections to the Parliament and State Legislature in India?",
+        "options": [
+          "Delimitation Commission",
+          "National Human Rights Commission",
+          "Election Commission",
+          "Finance Commission"
+        ],
+        "correctAnswer": "Election Commission",
+        "explanation": "The Election Commission of India is responsible for conducting free and fair elections to the Parliament and State Legislatures."
+      },
+      {
+        "question": "Who has the power to make laws pertaining to Panchayat under the Schedule 7 of the Constitution of India?",
+        "options": [
+          "Local Bodies",
+          "State",
+          "Rural",
+          "Union"
+        ],
+        "correctAnswer": "State",
+        "explanation": "State legislatures have the power to make laws pertaining to Panchayats under the Schedule 7 of the Constitution of India."
+      }
+    ],
+    "set1": [
+      {
+        "question": "What are the three types of municipalities established by the act?",
+        "options": [
+          "Nagar panchayat, Municipal council, Municipal corporation",
+          "Village panchayat, Block samiti, Zila parishad",
+          "City council, Town council, Borough council",
+          "District council, Local authority, Urban council"
+        ],
+        "correctAnswer": "Nagar panchayat, Municipal council, Municipal corporation",
+        "explanation": "The act provides for the constitution of a Nagar panchayat for transitional areas, a municipal council for smaller urban areas, and a municipal corporation for larger urban areas ."
+      },
+      {
+        "question": "Which amendment to the Constitution of India gave constitutional status to municipalities?",
+        "options": [
+          "61st Amendment",
+          "73rd Amendment",
+          "74th Amendment",
+          "86th Amendment"
+        ],
+        "correctAnswer": "74th Amendment",
+        "explanation": "The 74th Constitution Amendment Act, 1992, gave constitutional status to municipalities and outlined their governance structure ."
+      },
+      {
+        "question": "What is the primary objective of the 74th Constitution Amendment Act?",
+        "options": [
+          "To abolish local self-governments",
+          "To strengthen and revitalize urban local government",
+          "To centralize power in the state",
+          "To create a new tier of government"
+        ],
+        "correctAnswer": "To strengthen and revitalize urban local government",
+        "explanation": "The objective of the 74th Amendment is to strengthen and revitalize urban local government ."
+      },
+      {
+        "question": "Which state was the first to implement the Panchayat Samitis and Zila Parishad Act?",
+        "options": [
+          "Andhra Pradesh",
+          "Mysore",
+          "Rajasthan",
+          "Punjab"
+        ],
+        "correctAnswer": "Rajasthan",
+        "explanation": "Rajasthan was the first state to implement the Panchayat Samitis and Zila Parishad Act on October 2, 1959 ."
+      },
+      {
+        "question": "What is the structure of local self-governance at the district level?",
+        "options": [
+          "Panchayats, Block samitis, Zila parishads",
+          "Municipal councils, Nagar panchayats, Municipal corporations",
+          "City councils, Town councils, Borough councils",
+          "District councils, Local authorities, Urban councils"
+        ],
+        "correctAnswer": "Panchayats, Block samitis, Zila parishads",
+        "explanation": "The structure of local self-governance at the district level includes Zila parishads at the district level, Block samitis at the block level, and Panchayats at the village level ."
+      },
+      {
+        "question": "Which article of the Constitution pertains to the composition of municipalities?",
+        "options": [
+          "Article 243A",
+          "Article 243B",
+          "Article 243P",
+          "Article 243Z"
+        ],
+        "correctAnswer": "Article 243P",
+        "explanation": "Article 243P of the Constitution pertains to the composition of municipalities as part of the 74th Amendment ."
+      },
+      {
+        "question": "What is included in the 12th Schedule of the Constitution?",
+        "options": [
+          "List of subjects for Panchayati Raj",
+          "List of subjects for municipalities",
+          "List of fundamental rights",
+          "List of directive principles"
+        ],
+        "correctAnswer": "List of subjects for municipalities",
+        "explanation": "The 12th Schedule of the Constitution includes the functional items of the municipalities as per the 74th Amendment ."
+      },
+      {
+        "question": "Which of the following is NOT a type of municipality as per the act?",
+        "options": [
+          "Nagar panchayat",
+          "Municipal council",
+          "Municipal corporation",
+          "Gram panchayat"
+        ],
+        "correctAnswer": "Gram panchayat",
+        "explanation": "Gram panchayat is a rural local government body, while Nagar panchayat, Municipal council, and Municipal corporation are urban local government bodies ."
+      },
+      {
+        "question": "What is the role of state governments concerning the new system of municipalities?",
+        "options": [
+          "They can choose to ignore it",
+          "They are obligated to adopt it",
+          "They can modify it as they wish",
+          "They have no role"
+        ],
+        "correctAnswer": "They are obligated to adopt it",
+        "explanation": "State governments are under obligation to adopt the new system of municipalities as mandated by the 74th Amendment ."
+      },
+      {
+        "question": "Which of the following acts was implemented in 1959 in Assam?",
+        "options": [
+          "Assam Panchayat Act",
+          "Mysore Village Panchayats and Local Board Act",
+          "Madras Panchayat Act",
+          "Punjab Panchayat Samitis and Zila Parishad Act"
+        ],
+        "correctAnswer": "Assam Panchayat Act",
+        "explanation": "The Assam Panchayat Act was implemented in 1959 as part of the establishment of local self-governance ."
+      }
+    ]
+  }
 }
