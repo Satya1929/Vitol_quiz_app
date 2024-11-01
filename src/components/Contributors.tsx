@@ -199,6 +199,31 @@ export const Contributors: React.FC<ContributorsProps> = ({ onBack, onHome }) =>
             </div>
           ))}
         </div>
+
+        {/* Add the new section with better styling */}
+        <div className="p-8 text-center mb-8">
+          {/* <h3 className="text-2xl font-semibold mb-4">About the Quiz Content</h3> */}
+          <p className="text-lg mb-6">
+            Note : Hey !! I have provided Actual Quiz PYQs with MCQ Sets made from the official VIT Chennai Materials.
+            And each week has PYQ (10 Q) + Multiple MCQ sets (10 Q in each set).
+          </p>
+          {/* <p className="text-lg mb-6">
+            Each week has PYQ (10 Q) + Multiple MCQ sets by me (10 Q in each set).
+          </p> */}
+          <div className="text-lg">
+            <p className="font-semibold mb-4">Currently available sets for practice:</p>
+            <div className="grid grid-cols-2 gap-4 max-w-xs mx-auto">
+              <div className="glass-card p-3">Week 1: 20 Qs</div>
+              <div className="glass-card p-3">Week 2: 40 Qs</div>
+              <div className="glass-card p-3">Week 3: 40 Qs</div>
+              <div className="glass-card p-3">Week 4: 20 Qs</div>
+              <div className="glass-card p-3">Week 5: 20 Qs</div>
+              <div className="glass-card p-3">Week 6: 20 Qs</div>
+            </div>
+          </div>
+        </div>
+
+
       </div>
     </Background>
   );
