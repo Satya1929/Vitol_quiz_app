@@ -204,8 +204,8 @@ export const Contributors: React.FC<ContributorsProps> = ({ onBack, onHome }) =>
         <div className="p-8 text-center mb-8">
           {/* <h3 className="text-2xl font-semibold mb-4">About the Quiz Content</h3> */}
           <p className="text-lg mb-6">
-            Note : Hey !! I have provided Actual Quiz PYQs with MCQ Sets made from the official VIT Chennai Materials.
-            And each week has PYQ (10 Q) + Multiple MCQ sets (10 Q in each set).
+            Note : Hey !! I have provided PYQs with MCQ Sets made from the official VIT Chennai Materials.
+            Each week has PYQs & Multiple MCQ sets.
           </p>
           {/* <p className="text-lg mb-6">
             Each week has PYQ (10 Q) + Multiple MCQ sets by me (10 Q in each set).
