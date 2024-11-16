@@ -1220,7 +1220,7 @@
         "options": [
           "To discourage unprincipled defections",
           "To encourage defection from one party to another",
-          "Both (B) and (C)",
+          "Both (A) and (D)",
           "To prevent political horse trading"
         ],
         "correctAnswer": "To discourage unprincipled defections",
@@ -1574,6 +1574,353 @@
         ],
         "correctAnswer": "Law-making",
         "explanation": "The primary function of the Legislative Assembly is to make laws for the state."
+      }
+    ],
+    "set2": [
+      {
+        "question": "Which institution is known as the Neutral and Impartial Umpire between the Centre and State, holds the Sole Power of Interpretation of the Constitution, and is the Guardian of Fundamental Rights of the People?",
+        "options": [
+          "Supreme Court of India",
+          "Parliament of India",
+          "President of India",
+          "High Courts of India"
+        ],
+        "correctAnswer": "Supreme Court of India",
+        "explanation": "The Supreme Court of India serves as the Neutral and Impartial Umpire between the Centre and State, interprets the Constitution, and acts as the Guardian of Fundamental Rights of the people."
+      },
+      {
+        "question": "Which of the following concepts highlight the Supreme Court's role as the guardian of fundamental rights and the protector of civil liberties and freedoms?",
+        "options": [
+          "A. Judicial wing of the government",
+          "B. Independence of Judiciary and Impartiality as the Bedrock of Constitutional Democracy",
+          "C. Neutral and Impartial Umpire Between the Centre and State, Sole Power of Interpretation of the Constitution",
+          "D. Guardian of Fundamental Rights of the People, Protection of Civil Liberties and Freedoms of the People"
+        ],
+        "correctAnswer": "D. Guardian of Fundamental Rights of the People, Protection of Civil Liberties and Freedoms of the People",
+        "explanation": "This option directly addresses the Supreme Court's responsibility to safeguard the fundamental rights enshrined in the Constitution and protect the civil liberties and freedoms of the people."
+      },
+      {
+        "question": "What role does the Supreme Court play as a Sentinel Qui Vive in protecting constitutional safeguards?",
+        "options": [
+          "Prevents encroachment by the State through Judicial Review",
+          "Enforces laws passed by the Legislature",
+          "Implements policies of the Executive",
+          "Amends the Constitution"
+        ],
+        "correctAnswer": "Prevents encroachment by the State through Judicial Review",
+        "explanation": "The Supreme Court, as a Sentinel Qui Vive, prevents encroachment or interference by the State through Judicial Review, declaring legislative or executive actions infringing constitutional safeguards as ultra vires and unconstitutional."
+      },
+      {
+        "question": "Who has the appointment power for the Supreme Court and High Court judges, and how is it exercised?",
+        "options": [
+          "The Prime Minister directly appoints them",
+          "The President appoints them, but the decision is exercised by the Prime Minister and Council of Ministers",
+          "The Chief Justice of India appoints them",
+          "The Parliament votes to appoint them"
+        ],
+        "correctAnswer": "The President appoints them, but the decision is exercised by the Prime Minister and Council of Ministers",
+        "explanation": "The appointment power is vested in the hands of the President, but it is exercised by the executive, specifically the Prime Minister and the Council of Ministers."
+      },
+      {
+        "question": "What is the convention followed for the appointment of the Chief Justice of India?",
+        "options": [
+          "Selection through a parliamentary vote",
+          "Seniority rule is followed",
+          "Appointment by the President based on popular opinion",
+          "Random selection among eligible judges"
+        ],
+        "correctAnswer": "Seniority rule is followed",
+        "explanation": "For the appointment of the Chief Justice of India (CJI), the seniority rule is traditionally followed, where the senior-most judge of the Supreme Court is appointed as the CJI."
+      },
+      {
+        "question": "How many judges are required to decide cases related to the Constitution of India?",
+        "options": [
+          "Two judges",
+          "Three judges",
+          "Five judges",
+          "Seven judges"
+        ],
+        "correctAnswer": "Five judges",
+        "explanation": "All cases related to the Constitution of India must be decided by a five-judge bench in the Supreme Court."
+      },
+      {
+        "question": "Where is the seat of the Supreme Court of India, and can it be changed?",
+        "options": [
+          "Mumbai, and it cannot be changed",
+          "Kolkata, and it cannot be changed",
+          "Delhi, but the Chief Justice of India can assign other places as optional seats",
+          "Chennai, and it is fixed"
+        ],
+        "correctAnswer": "Delhi, but the Chief Justice of India can assign other places as optional seats",
+        "explanation": "Delhi is the seat of the Supreme Court of India, but the Chief Justice of India has the power to assign other places as optional seats."
+      },
+      {
+        "question": "Can the President of India overrule the judgments passed by the Supreme Court?",
+        "options": [
+          "Yes, the President can overrule Supreme Court judgments",
+          "No, only Parliament can amend a law to overrule a Supreme Court judgment",
+          "Yes, the President can overrule any court in India",
+          "No, the Supreme Court judgments are final and cannot be challenged"
+        ],
+        "correctAnswer": "No, only Parliament can amend a law to overrule a Supreme Court judgment",
+        "explanation": "The President of India cannot overrule Supreme Court judgments. However, the President has the power to pardon but not overrule a decision. Parliament can amend laws to overrule Supreme Court judgments."
+      },
+      {
+        "question": "How many judges are required to decide cases related to the Constitution of India?",
+        "options": [
+          "Two judges",
+          "Three judges",
+          "Five judges",
+          "Seven judges"
+        ],
+        "correctAnswer": "Five judges",
+        "explanation": "All cases related to the Constitution of India must be decided by a five-judge bench in the Supreme Court."
+      },
+      {
+        "question": "Where is the seat of the Supreme Court of India, and can it be changed?",
+        "options": [
+          "Mumbai, and it cannot be changed",
+          "Kolkata, and it cannot be changed",
+          "Delhi, but the Chief Justice of India can assign other places as optional seats",
+          "Chennai, and it is fixed"
+        ],
+        "correctAnswer": "Delhi, but the Chief Justice of India can assign other places as optional seats",
+        "explanation": "Delhi is the seat of the Supreme Court of India, but the Chief Justice of India has the power to assign other places as optional seats."
+      }
+    ],
+    "set3": [
+      {
+        "question": "Which of the following is NOT a part of the Union Executive?",
+        "options": [
+          "The Governor",
+          "The Chief Minister",
+          "The Council of Ministers",
+          "The Advocate General"
+        ],
+        "correctAnswer": "The Advocate General",
+        "explanation": "The Union Executive consists of the Governor, Chief Minister, and the Council of Ministers. The Advocate General is a state-level constitutional post and not part of the Union Executive."
+      },
+      {
+        "question": "What is the dual role of the Governor in the Indian political system?",
+        "options": [
+          "Nominal Head and Leader of the State Legislature",
+          "Agent of the Central Government and Constitutional Head of the State",
+          "Head of the Council of Ministers and Speaker of the Assembly",
+          "Chairperson of the State Executive and Judiciary"
+        ],
+        "correctAnswer": "Agent of the Central Government and Constitutional Head of the State",
+        "explanation": "The Governor serves a dual role as the nominal or constitutional head of the state and as an agent of the Central Government."
+      },
+      {
+        "question": "Which of the following is true regarding the election of the Governor?",
+        "options": [
+          "The Governor is directly elected by the people of the state",
+          "The Governor is indirectly elected by the state legislature",
+          "The Governor is appointed by the President under his hand and seal",
+          "The Governor is appointed by the state legislature"
+        ],
+        "correctAnswer": "The Governor is appointed by the President under his hand and seal",
+        "explanation": "The Governor is not elected by the people or the state legislature. The Governor is appointed by the President of India through a warrant under his hand and seal, and is essentially a nominee of the Central Government."
+      },
+      {
+        "question": "Which of the following are the qualifications for the appointment of Governors as laid down by the Constitution?",
+        "options": [
+          "He should be a citizen of India and should have completed 35 years of age",
+          "He should be a citizen of India and should have completed 30 years of age",
+          "He should be a permanent resident of the state and should have completed 35 years of age",
+          "He should be a citizen of India and should have completed 40 years of age"
+        ],
+        "correctAnswer": "He should be a citizen of India and should have completed 35 years of age",
+        "explanation": "As per the Constitution of India, the qualifications for the appointment of Governors are that he should be a citizen of India and should have completed 35 years of age."
+      },
+      {
+        "question": "Which of the following conditions are laid down by the Constitution for the office of the Governor?",
+        "options": [
+          "Should not be a member of Parliament or state legislature, not hold any office of profit, and entitled to use official residence without rent.",
+          "Should be a member of state legislature, hold no office of profit, and entitled to use official residence with rent.",
+          "Should not be a member of Parliament, hold an office of profit, and entitled to use official residence without rent.",
+          "Should be a member of Parliament, hold no office of profit, and entitled to use official residence without rent."
+        ],
+        "correctAnswer": "Should not be a member of Parliament or state legislature, not hold any office of profit, and entitled to use official residence without rent.",
+        "explanation": "As per the Constitution, the conditions for the office of the Governor are that he should not be a member of either House of Parliament or state legislature, should not hold any other office of profit, and is entitled to use his official residence (Raj Bhavan) without payment of rent."
+      },
+      {
+        "question": "Which of the following powers does the Governor of a state possess?",
+        "options": [
+          "Executive, Legislative, Financial, and Judicial Powers.",
+          "Diplomatic, Military, Financial, and Judicial Powers.",
+          "Executive, Diplomatic, Military, and Financial Powers.",
+          "Legislative, Judicial, Diplomatic, and Military Powers."
+        ],
+        "correctAnswer": "Executive, Legislative, Financial, and Judicial Powers.",
+        "explanation": "The Governor's powers are classified into Executive, Legislative, Financial, and Judicial powers, similar to the President of India, but without diplomatic, military, or emergency powers."
+      },
+      {
+        "question": "Which of the following powers is NOT held by the Governor of a state?",
+        "options": [
+          "Diplomatic Power.",
+          "Executive Power.",
+          "Legislative Power.",
+          "Judicial Power."
+        ],
+        "correctAnswer": "Diplomatic Power.",
+        "explanation": "The Governor possesses executive, legislative, financial, and judicial powers, but does not hold diplomatic, military, or emergency powers like the President of India."
+      },
+      {
+        "question": "Which of the following is true about the Governor's immunity?",
+        "options": [
+          "The Governor can be arrested or imprisoned",
+          "The Governor cannot be arrested or imprisoned",
+          "The Governor can be arrested only during a state of emergency",
+          "The Governor can be imprisoned by a court order"
+        ],
+        "correctAnswer": "The Governor cannot be arrested or imprisoned",
+        "explanation": "The Governor cannot be arrested or imprisoned, which is a special provision granted to him under the Constitution."
+      },
+      {
+        "question": "Who administers the oath of office to the Governor?",
+        "options": [
+          "The President of India",
+          "The Chief Justice of the concerned State High Court",
+          "The Prime Minister of India",
+          "The Speaker of the State Legislative Assembly"
+        ],
+        "correctAnswer": "The Chief Justice of the concerned State High Court",
+        "explanation": "The Governor is administered the oath of office by the Chief Justice of the concerned State High Court, or in his absence, by the senior-most judge of that court available."
+      },
+      {
+        "question": "How can the Governor resign from office?",
+        "options": [
+          "By submitting a resignation letter to the President",
+          "By addressing the resignation letter to the Prime Minister",
+          "By writing to the Chief Minister of the state",
+          "By giving a resignation speech in the Legislative Assembly"
+        ],
+        "correctAnswer": "By submitting a resignation letter to the President",
+        "explanation": "The Governor can resign at any time by addressing a resignation letter to the President."
+      },
+      {
+        "question": "Can the President of India overrule the judgments passed by the Supreme Court?",
+        "options": [
+          "Yes, the President can overrule Supreme Court judgments",
+          "No, only Parliament can amend a law to overrule a Supreme Court judgment",
+          "Yes, the President can overrule any court in India",
+          "No, the Supreme Court judgments are final and cannot be challenged"
+        ],
+        "correctAnswer": "No, only Parliament can amend a law to overrule a Supreme Court judgment",
+        "explanation": "The President of India cannot overrule Supreme Court judgments. However, the President has the power to pardon but not overrule a decision. Parliament can amend laws to overrule Supreme Court judgments."
+      }
+    ],
+    "set4": [
+      {
+        "question": "Which articles of the Indian Constitution deal with the judiciary, including the Supreme Court and subordinate courts?",
+        "options": [
+          "Art. 124-147 for Supreme Court, Art. 214-232 for High Courts, Art. 233-237 for Subordinate Courts",
+          "Art. 100-150 for Supreme Court, Art. 200-220 for High Courts, Art. 230-240 for Subordinate Courts",
+          "Art. 150-200 for Supreme Court, Art. 210-230 for High Courts, Art. 220-240 for Subordinate Courts",
+          "Art. 120-130 for Supreme Court, Art. 200-220 for High Courts, Art. 210-230 for Subordinate Courts"
+        ],
+        "correctAnswer": "Art. 124-147 for Supreme Court, Art. 214-232 for High Courts, Art. 233-237 for Subordinate Courts",
+        "explanation": "Articles 124-147 of the Indian Constitution deal with the Supreme Court, Articles 214-232 with High Courts, and Articles 233-237 with Subordinate Courts."
+      },
+      {
+        "question": "Which of the following is correct regarding the qualifications for appointment as a Judge of the Supreme Court according to Article 124 of the Indian Constitution?",
+        "options": [
+          "A person must be a citizen of India and must have served as a Judge of the High Court for at least 5 years, or practiced as an advocate for at least 10 years.",
+          "A person must be a citizen of India, served as a Judge of the High Court for at least 7 years, or practiced as an advocate for at least 12 years.",
+          "A person must be a citizen of India and should have completed 65 years of age to be appointed.",
+          "A person must be a citizen of India, served as a Judge of the High Court for at least 5 years, or practiced as an advocate for at least 10 years, and must not have completed 65 years of age."
+        ],
+        "correctAnswer": "A person must be a citizen of India, served as a Judge of the High Court for at least 5 years, or practiced as an advocate for at least 10 years, and must not have completed 65 years of age.",
+        "explanation": "Article 124(3) specifies that a person must be a citizen of India and must either have served as a Judge of a High Court for at least 5 years, or practiced as an advocate in a High Court for at least 10 years, or in the opinion of the President, be a distinguished jurist. Additionally, they should not have completed 65 years of age as per Article 124(2)."
+      },
+      {
+        "question": "Which of the following statements about the Judges of the Supreme Court is correct?",
+        "options": [
+          "A. Appointed by the president on the recommendations of the National Judicial Appointments Commission under Article 124A (Held Unconstitutional in NJAC case).",
+          "B. Appointed by the President and shall hold office until the age of 65 years.",
+          "C. Appointed by the President and shall hold office for a lifetime.",
+          "D. A and B are correct."
+        ],
+        "correctAnswer": "D. A and B are correct.",
+        "explanation": "Judges of the Supreme Court are appointed by the President. The National Judicial Appointments Commission (NJAC) was created under Article 124A but was held unconstitutional in the NJAC case. Judges hold office until they reach the age of 65 years as per Article 124 of the Constitution."
+      },
+      {
+        "question": "Which of the following statements is correct regarding the conduct of Judges in India?",
+        "options": [
+          "A. Discussion on the conduct of judges is allowed in Parliament.",
+          "B. The conduct of judges is not subject to any discussion in Parliament.",
+          "C. Judges can be removed through a simple majority in both houses of Parliament.",
+          "D. Judges' conduct can be openly debated in public forums."
+        ],
+        "correctAnswer": "B. The conduct of judges is not subject to any discussion in Parliament.",
+        "explanation": "As per the Constitution, no discussion on the conduct of judges is allowed in Parliament to maintain the independence of the judiciary."
+      },
+      {
+        "question": "Where is the default seat of the Supreme Court of India, and how is it determined?",
+        "options": [
+          "A. The default seat of the Supreme Court is in Mumbai, and the Chief Justice can decide its location.",
+          "B. The default seat of the Supreme Court is in Delhi, and the Chief Justice, with President's approval, can appoint other places.",
+          "C. The default seat of the Supreme Court is in New Delhi, and it cannot be changed.",
+          "D. The default seat of the Supreme Court is decided by the Parliament."
+        ],
+        "correctAnswer": "B. The default seat of the Supreme Court is in Delhi, and the Chief Justice, with President's approval, can appoint other places.",
+        "explanation": "Article 130 of the Constitution states that the Supreme Court shall sit in Delhi, but the Chief Justice of India can decide on other places with the President's approval."
+      },
+      {
+        "question": "Which of the following statements is correct regarding the Original Jurisdiction of the Supreme Court under Article 131?",
+        "options": [
+          "A. The Supreme Court has jurisdiction over disputes between individuals and the government.",
+          "B. The Supreme Court has jurisdiction over disputes between the Centre and the State to the exclusion of all other courts in India.",
+          "C. The Supreme Court handles only constitutional matters and has no jurisdiction over disputes between the Centre and the State.",
+          "D. The Supreme Courts jurisdiction is limited to cases involving international relations."
+        ],
+        "correctAnswer": "B. The Supreme Court has jurisdiction over disputes between the Centre and the State to the exclusion of all other courts in India.",
+        "explanation": "Article 131 of the Constitution grants the Supreme Court original jurisdiction over disputes between the Centre and the States, with no other court having jurisdiction over these matters."
+      },
+      {
+        "question": "Which of the following statements is correct regarding the composition of the Supreme Court as per Article 124(1) of the Constitution of India?",
+        "options": [
+          "A. The Supreme Court consists of the Chief Justice of India and 33 other judges, making a total of 34 judges including the Chief Justice of India.",
+          "B. The Supreme Court is composed only of the Chief Justice of India and 10 other judges.",
+          "C. The Supreme Court consists of 34 judges, excluding the Chief Justice of India.",
+          "D. The composition of the Supreme Court is not defined under the Indian Constitution."
+        ],
+        "correctAnswer": "A. The Supreme Court consists of the Chief Justice of India and 33 other judges, making a total of 34 judges including the Chief Justice of India.",
+        "explanation": "Article 124(1) of the Constitution of India mandates that the Supreme Court of India shall consist of the Chief Justice and other judges, totalling 34 judges, including the Chief Justice."
+      },
+      {
+        "question": "Which of the following is/are the qualifications for becoming a judge of the Supreme Court of India under Article 124(3) of the Constitution?",
+        "options": [
+          "A. The candidate must be a citizen of India and must have been a judge of a High Court for at least 5 years.",
+          "B. The candidate must be an eminent jurist or must have practiced as an advocate in a High Court for at least 10 years.",
+          "C. The candidate must be a citizen of India, an eminent jurist, or a judge of a High Court for at least 5 years, or have practiced as an advocate for at least 10 years in a High Court.",
+          "D. The candidate must be a citizen of India, an eminent jurist, or have served as a District Judge for at least 5 years."
+        ],
+        "correctAnswer": "C. The candidate must be a citizen of India, an eminent jurist, or a judge of a High Court for at least 5 years, or have practiced as an advocate for at least 10 years in a High Court.",
+        "explanation": "As per Article 124(3) of the Indian Constitution, the qualifications to become a Supreme Court judge include being a citizen of India, being an eminent jurist, having served as a judge of a High Court for at least 5 years, or having practiced as an advocate in a High Court for at least 10 years."
+      },
+      {
+        "question": "Which of the following statements about the Cabinet is/are correct?",
+        "options": [
+          "A. The Cabinet is a smaller body consisting of 20-30 ministers and includes only the cabinet ministers.",
+          "B. The Cabinet is a part and a sub-set of the Council of Ministers, and meets frequently at least once a month.",
+          "C. The Cabinet includes all the members of the Council of Ministers and meets only when necessary.",
+          "D. The Cabinet is a smaller body consisting of 20-30 ministers, a part of the Council of Ministers, and meets frequently at least once a week."
+        ],
+        "correctAnswer": "D. The Cabinet is a smaller body consisting of 20-30 ministers, a part of the Council of Ministers, and meets frequently at least once a week.",
+        "explanation": "The Cabinet is a smaller body within the Council of Ministers, usually consisting of 20-30 ministers, and meets frequently, usually at least once a week, to deliberate and take decisions."
+      },
+      {
+        "question": "What is the duty of the Chief Minister in relation to the Governor?",
+        "options": [
+          "A. To communicate all decisions of the Council of Ministers related to Union administration and proposals for legislation.",
+          "B. To provide information on the Union’s finances and budget only.",
+          "C. To decide independently on matters without consulting the Governor.",
+          "D. To forward only urgent legislative proposals to the Governor."
+        ],
+        "correctAnswer": "A. To communicate all decisions of the Council of Ministers related to Union administration and proposals for legislation.",
+        "explanation": "The Chief Minister is the principal channel of communication between the Governor and the Council of Ministers, responsible for conveying all decisions related to the administration of the Union and legislative proposals."
       }
     ]
   },
