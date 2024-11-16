@@ -223,7 +223,375 @@
         "correctAnswer": "Bicameral legislature",
         "explanation": "The Indian parliamentary system features a bicameral legislature, consisting of the Lok Sabha and Rajya Sabha."
       }
-    ]
+    ],
+    "set2": [
+    {
+      "question": "What does the term 'Constitutionalism' mean?",
+      "options": [
+        "Unlimited government powers",
+        "Limitation on government powers",
+        "Government without laws",
+        "A form of monarchy"
+      ],
+      "correctAnswer": "Limitation on government powers",
+      "explanation": "Constitutionalism refers to the limitation of government powers, ensuring that the government operates within set rules and boundaries."
+    },
+    {
+      "question": "What is the primary purpose of a Constitution in a democracy?",
+      "options": [
+        "To define the structure of the government",
+        "To limit the powers of the government",
+        "To create laws and regulations for citizens",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above",
+      "explanation": "A Constitution defines the structure of government, limits its powers, and provides a framework for creating laws and regulations."
+    },
+    {
+      "question": "Which of the following is NOT a feature of constitutionalism?",
+      "options": [
+        "Government operates within prescribed boundaries",
+        "Government can exercise powers without restriction",
+        "Limits are set on the powers of government",
+        "The Constitution ensures citizen's rights and freedoms"
+      ],
+      "correctAnswer": "Government can exercise powers without restriction",
+      "explanation": "Constitutionalism involves limiting government powers to prevent arbitrary use of authority."
+    },
+    {
+      "question": "What does the Preamble to the Constitution of India embody?",
+      "options": [
+        "The fundamental rights of citizens",
+        "The essence of the Constitution, its values, philosophy, and objectives",
+        "The duties of the President",
+        "The structure of the Indian Parliament"
+      ],
+      "correctAnswer": "The essence of the Constitution, its values, philosophy, and objectives",
+      "explanation": "The Preamble to the Constitution of India embodies the fundamental values, philosophy, and objectives for which the country struggled during the British regime, and the goals the founding fathers envisioned for the nation."
+    },
+    {
+      "question": "Which of the following describes a salient feature of the Indian Constitution?",
+      "options": [
+        "It is the shortest Constitution in the world.",
+        "It provides for a Presidential form of Government.",
+        "It is the lengthiest Constitution in the world.",
+        "It grants hereditary monarchy."
+      ],
+      "correctAnswer": "It is the lengthiest Constitution in the world.",
+      "explanation": "The Indian Constitution is the longest written constitution in the world, containing detailed provisions on various aspects of governance."
+    },
+    {
+      "question": "Which system of government does the Indian Constitution adopt?",
+      "options": [
+        "Presidential system",
+        "Parliamentary system",
+        "Monarchical system",
+        "Federal system"
+      ],
+      "correctAnswer": "Parliamentary system",
+      "explanation": "India follows a Parliamentary form of Government where the executive is accountable to the legislature, with the President serving as the ceremonial head of state."
+    },
+    {
+      "question": "Which of the following is NOT a factor contributing to the size of the Indian Constitution?",
+      "options": [
+        "Geographical factors",
+        "Historical factors",
+        "Single constitution for both centre and state",
+        "Shortage of legal professionals"
+      ],
+      "correctAnswer": "Shortage of legal professionals",
+      "explanation": "The four factors contributing to the size of the Indian Constitution are geographical factors, historical factors, a single constitution for both centre and state, and the dominance of legal luminaries."
+    },
+    {
+      "question": "Which of the following is NOT a feature of the parliamentary form of government in India?",
+      "options": [
+        "Presence of nominal and real executives",
+        "Majority party rule",
+        "Leadership of the Prime Minister",
+        "Single party dominance in all sectors"
+      ],
+      "correctAnswer": "Single party dominance in all sectors",
+      "explanation": "The features of the parliamentary form of government include the presence of nominal and real executives, majority party rule, collective responsibility, and the leadership of the Prime Minister. However, single party dominance in all sectors is not a characteristic of the parliamentary system."
+    },
+    {
+      "question": "Which of the following is a key feature of the Parliamentary system of government in India?",
+      "options": [
+        "It is a separation of powers between the executive and legislature",
+        "It is based on the principle of cooperation and coordination between the legislative and executive organs",
+        "The executive is completely independent of the legislature",
+        "The Parliament has no role in the functioning of the government"
+      ],
+      "correctAnswer": "It is based on the principle of cooperation and coordination between the legislative and executive organs",
+      "explanation": "The Parliamentary system in India is based on the principle of cooperation and coordination between the legislative and executive organs, unlike a separation of powers as seen in presidential systems. It is also known as the 'Westminster' model of government."
+    },
+    {
+      "question": "What was the change made to the voting age in India through the 61st Amendment in 1989?",
+      "options": [
+        "The voting age was reduced from 25 to 18 years",
+        "The voting age was increased from 18 to 21 years",
+        "The voting age was reduced from 21 to 18 years",
+        "The voting age was made 30 years for all citizens"
+      ],
+      "correctAnswer": "The voting age was reduced from 21 to 18 years",
+      "explanation": "The 61st Amendment Act of 1989 lowered the voting age in India from 21 years to 18 years, granting the right to vote to younger adults."
+    }
+  ],
+  "set3": [
+    {
+      "question": "What does 'Fraternity' in the Preamble to the Constitution of India assure?",
+      "options": [
+        "Unity and integrity of the Nation",
+        "Right to education for all citizens",
+        "Dignity of the individual and unity of the government",
+        "Establishment of a democratic republic"
+      ],
+      "correctAnswer": "Unity and integrity of the Nation",
+      "explanation": "'Fraternity' in the Preamble assures the dignity of the individual and emphasizes the unity and integrity of the Nation."
+    },
+    {
+      "question": "What does 'Sovereign' mean in the context of the Indian state?",
+      "options": [
+        "Limited and controlled power",
+        "Supreme, independent, absolute, and uncontrolled power",
+        "Dependent on external forces",
+        "Controlled by international law"
+      ],
+      "correctAnswer": "Supreme, independent, absolute, and uncontrolled power",
+      "explanation": "'Sovereign' in the context of the Indian state means it has supreme power, is independent, absolute, and free from external control."
+    },
+    {
+      "question": "What does 'Socialist' mean in the context of the Indian Constitution?",
+      "options": [
+        "A system based on communistic socialism",
+        "A system where private sector is eliminated",
+        "A principle aiming at the elimination of inequality in income, status, and standards of life",
+        "A purely capitalistic system"
+      ],
+      "correctAnswer": "A principle aiming at the elimination of inequality in income, status, and standards of life",
+      "explanation": "'Socialist' in the context of the Indian Constitution, added by the 42nd Amendment Act of 1976, aims to eliminate inequality in income, status, and standards of life. India follows 'Democratic Socialism' with a mixed economy, where both the private and public sectors coexist."
+    },
+    {
+      "question": "What is the nature of 'Democratic Socialism' followed by India?",
+      "options": [
+        "A purely government-controlled economy",
+        "A mixed economy where both private and public sectors coexist",
+        "A system where only the private sector is dominant",
+        "A system based on communism and dictatorship"
+      ],
+      "correctAnswer": "A mixed economy where both private and public sectors coexist",
+      "explanation": "'Democratic Socialism' in India refers to a mixed economy, where both the private and public sectors coexist. It supports economic and social equality while maintaining a democratic framework."
+    },
+    {
+      "question": "What does the term 'Secular' mean in the context of the Indian Constitution?",
+      "options": [
+        "The state recognizes and supports one religion",
+        "The state treats all religions equally and does not recognize any religion",
+        "The state promotes atheism",
+        "The state bans all religions"
+      ],
+      "correctAnswer": "The state treats all religions equally and does not recognize any religion",
+      "explanation": "'Secular' means that the state does not recognize any particular religion and treats all religions equally. The Indian Constitution provides religious freedom under Articles 25 to 28."
+    },
+    {
+      "question": "What is the meaning of 'Democracy'?",
+      "options": [
+        "Rule by the king",
+        "Rule by the people",
+        "Rule by the military",
+        "Rule by the elite class"
+      ],
+      "correctAnswer": "Rule by the people",
+      "explanation": "Democracy is a form of government in which the authority to govern is derived from the will of the people."
+    },
+    {
+      "question": "What type of democracy does India follow?",
+      "options": [
+        "Direct Democracy",
+        "Indirect Democracy",
+        "Hybrid Democracy",
+        "None of the above"
+      ],
+      "correctAnswer": "Indirect Democracy",
+      "explanation": "India follows an Indirect Democracy where representatives are elected by the people to make decisions on their behalf."
+    },
+    {
+      "question": "What does the term 'Republic' signify in the context of the Indian Constitution?",
+      "options": [
+        "The head of state is a hereditary monarch",
+        "The head of state is elected",
+        "India follows a monarchy",
+        "The President is appointed by the Prime Minister"
+      ],
+      "correctAnswer": "The head of state is elected",
+      "explanation": "The term 'Republic' signifies that the head of the state, the President, is elected and not a hereditary monarch."
+    },
+    {
+      "question": "What does the statement 'Secularism is the basic feature of the Constitution' imply?",
+      "options": [
+        "The Constitution favors one religion over others",
+        "The Constitution mandates equal treatment of all religions",
+        "The Constitution promotes atheism",
+        "The Constitution prohibits religious practices"
+      ],
+      "correctAnswer": "The Constitution mandates equal treatment of all religions",
+      "explanation": "Secularism as a basic feature of the Constitution ensures that the state treats all religions equally and does not favor or discriminate against any religion."
+    },
+    {
+      "question": "What does the term 'Adult Suffrage' signify in the context of the Indian Constitution?",
+      "options": [
+        "Only educated adults have the right to vote",
+        "All adults, irrespective of caste, religion, or gender, have the right to vote",
+        "Only men above 21 years of age can vote",
+        "Voting rights are reserved for taxpayers"
+      ],
+      "correctAnswer": "All adults, irrespective of caste, religion, or gender, have the right to vote",
+      "explanation": "Adult Suffrage means the right to vote is granted to all citizens who are 18 years or older, regardless of caste, religion, gender, or social status, as per the Constitution of India."
+    },
+    {
+      "question": "Which of the following describes the concept of 'Single Citizenship' in India?",
+      "options": [
+        "Citizenship in India is granted by the state in which a person is born.",
+        "India follows dual citizenship, allowing individuals to hold citizenship in both India and their state.",
+        "India has a single citizenship system, where all citizens enjoy the same political and civil rights regardless of the state they are born in.",
+        "India allows multiple citizenships depending on the individual’s place of birth."
+      ],
+      "correctAnswer": "India has a single citizenship system, where all citizens enjoy the same political and civil rights regardless of the state they are born in.",
+      "explanation": "India follows the principle of single citizenship, where citizens are granted the same rights and privileges irrespective of the state they are born in."
+    },
+    {
+      "question": "Which of the following statements is true about 'Citizenship' and 'Nationality'?",
+      "options": [
+        "Nationality is the legal status of a person in a country, while citizenship refers to the place of birth.",
+        "Citizenship refers to the legal status of a person in a country, while nationality refers to their place of birth.",
+        "Domicile is the place of birth of a person, while nationality determines their legal status in a country.",
+        "Citizenship and nationality are interchangeable terms that both refer to a person's right to reside in a country."
+      ],
+      "correctAnswer": "Citizenship refers to the legal status of a person in a country, while nationality refers to their place of birth.",
+      "explanation": "Citizenship is a legal status that grants individuals rights and responsibilities within a country, while nationality is determined by the place of birth. Domicile is associated with the intention to reside permanently in a country."
+    }
+    
+    
+    
+        
+    
+  ],
+  "set4": [
+    {
+      "question": "When did the Indian Constitution come into force?",
+      "options": [
+        "15th August, 1947",
+        "26th January, 1950",
+        "26th November, 1949",
+        "15th August, 1950"
+      ],
+      "correctAnswer": "26th January, 1950",
+      "explanation": "The Indian Constitution came into force on 26th January, 1950, marking the official adoption of the country's legal framework."
+    },
+    {
+      "question": "How long did it take to draft the Indian Constitution?",
+      "options": [
+        "2 years, 11 months, and 18 days",
+        "3 years, 6 months, and 10 days",
+        "1 year, 5 months, and 15 days",
+        "4 years, 10 months, and 20 days"
+      ],
+      "correctAnswer": "2 years, 11 months, and 18 days",
+      "explanation": "The drafting of the Indian Constitution took 2 years, 11 months, and 18 days, from 1946 to 1949."
+    },
+    {
+      "question": "How many articles did the original Indian Constitution have?",
+      "options": [
+        "395 articles, 8 Schedules, 22 Parts",
+        "448 articles, 25 Parts, 12 Schedules",
+        "375 articles, 10 Schedules, 20 Parts",
+        "400 articles, 15 Parts, 10 Schedules"
+      ],
+      "correctAnswer": "395 articles, 8 Schedules, 22 Parts",
+      "explanation": "The original Indian Constitution, which came into force on 26th January 1950, had 395 articles, 8 Schedules, and 22 Parts."
+    },
+    {
+      "question": "What is the current structure of the Indian Constitution as of 2021?",
+      "options": [
+        "395 articles, 8 Schedules, 22 Parts",
+        "448 articles, 25 Parts, 12 Schedules",
+        "500 articles, 30 Parts, 15 Schedules",
+        "400 articles, 20 Parts, 10 Schedules"
+      ],
+      "correctAnswer": "448 articles, 25 Parts, 12 Schedules",
+      "explanation": "As of 2021, the Indian Constitution has 448 articles, 25 Parts, and 12 Schedules, with numerous amendments over the years."
+    },
+    {
+      "question": "Which Articles of the Indian Constitution guarantee the right to religious freedom?",
+      "options": [
+        "Articles 14 to 18",
+        "Articles 20 to 22",
+        "Articles 25 to 28",
+        "Articles 30 to 32"
+      ],
+      "correctAnswer": "Articles 25 to 28",
+      "explanation": "Articles 25 to 28 of the Indian Constitution guarantee the right to religious freedom, allowing individuals to practice, profess, and propagate their religion of choice."
+    },
+    {
+      "question": "Who were elected as the President and Vice-President of the Constituent Assembly of India?",
+      "options": [
+        "Dr. B.R. Ambedkar and Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru and Rajendra Prasad",
+        "Dr. Rajendra Prasad and H.C. Mukherjee",
+        "C. Rajagopalachari and Dr. Rajendra Prasad"
+      ],
+      "correctAnswer": "Dr. Rajendra Prasad and H.C. Mukherjee",
+      "explanation": "Dr. Rajendra Prasad was elected as the President and H.C. Mukherjee as the Vice-President of the Constituent Assembly of India."
+    },
+    {
+      "question": "Who among the following was a member of the Drafting Committee of the Indian Constitution?",
+      "options": [
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "correctAnswer": "Dr. B.R. Ambedkar",
+      "explanation": "The Drafting Committee of the Indian Constitution consisted of 7 members, including Dr. B.R. Ambedkar, Gopalswamy Ayyangar, Alladi Krishnaswamy Ayyar, Dr. K.M. Munshi, Syed Mohammed Saadullah, T.T. Krishnamachari, and N. Madhava Rau (replaced B.L. Mitter)."
+    },
+    {
+      "question": "How many members were there in the Drafting Committee of the Indian Constitution?",
+      "options": [
+        "5 members",
+        "6 members",
+        "7 members",
+        "8 members"
+      ],
+      "correctAnswer": "7 members",
+      "explanation": "The Drafting Committee of the Indian Constitution consisted of 7 members, including Dr. B.R. Ambedkar as the Chairman."
+    },
+    {
+      "question": "When was the final draft of the Indian Constitution presented, and when was it adopted?",
+      "options": [
+        "August 15, 1947, and January 26, 1950",
+        "November 1948, and January 26, 1950",
+        "November 1948, and November 26, 1949",
+        "November 1948, and December 10, 1948"
+      ],
+      "correctAnswer": "November 1948, and November 26, 1949",
+      "explanation": "The final draft of the Indian Constitution was presented in November 1948 and adopted on November 26, 1949."
+    },
+    {
+      "question": "Which article of the Indian Constitution deals with the separation of the judiciary from the executive?",
+      "options": [
+        "Article 49",
+        "Article 50",
+        "Article 51",
+        "Article 48"
+      ],
+      "correctAnswer": "Article 50",
+      "explanation": "Article 50 of the Indian Constitution mandates the separation of the judiciary from the executive, ensuring the independence of the judiciary."
+    }
+    
+    
+    
+    
+    
+  ]
   },
   "week2": {
     "pyq": [

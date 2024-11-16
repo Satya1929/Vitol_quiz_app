@@ -213,7 +213,7 @@ export const Contributors: React.FC<ContributorsProps> = ({ onBack, onHome }) =>
           <div className="text-lg">
             <p className="font-semibold mb-4">Currently available sets for practice:</p>
             <div className="grid grid-cols-2 gap-4 max-w-xs mx-auto">
-              <div className="glass-card p-3">Week 1: 20 Qs</div>
+              <div className="glass-card p-3">Week 1: 50 Qs</div>
               <div className="glass-card p-3">Week 2: 40 Qs</div>
               <div className="glass-card p-3">Week 3: 40 Qs</div>
               <div className="glass-card p-3">Week 4: 20 Qs</div>
