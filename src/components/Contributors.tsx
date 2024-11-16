@@ -218,7 +218,7 @@ export const Contributors: React.FC<ContributorsProps> = ({ onBack, onHome }) =>
               <div className="glass-card p-3">Week 3: 40 Qs</div>
               <div className="glass-card p-3">Week 4: 20 Qs</div>
               <div className="glass-card p-3">Week 5: 50 Qs</div>
-              <div className="glass-card p-3">Week 6: 20 Qs</div>
+              <div className="glass-card p-3">Week 6: 50 Qs</div>
             </div>
           </div>
         </div>

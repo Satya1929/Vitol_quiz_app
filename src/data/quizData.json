@@ -2192,6 +2192,298 @@
         "correctAnswer": "Assam Panchayat Act",
         "explanation": "The Assam Panchayat Act was implemented in 1959 as part of the establishment of local self-governance ."
       }
-    ]
+    ],
+    "set2": [
+      {
+        "question": "Which of the following municipalities is established under the act for transitional areas?",
+        "options": [
+          "Nagar Panchayat",
+          "Municipal Council",
+          "Municipal Corporation",
+          "Urban Development Authority"
+        ],
+        "correctAnswer": "Nagar Panchayat",
+        "explanation": "The act provides for the constitution of a Nagar Panchayat for transitional areas, a Municipal Council for smaller urban areas, and a Municipal Corporation for larger urban areas."
+      },
+      {
+        "question": "What is the minimum percentage of seats reserved for women in every municipality according to the act?",
+        "options": [
+          "10%",
+          "20%",
+          "25%",
+          "One-third"
+        ],
+        "correctAnswer": "One-third",
+        "explanation": "The act provides for the reservation of not less than one-third of the total number of seats for women in every municipality."
+      },
+      {
+        "question": "Until which year will the reservation of seats for scheduled castes and scheduled tribes in municipalities remain in effect?",
+        "options": [
+          "2025",
+          "2030",
+          "2035",
+          "2040"
+        ],
+        "correctAnswer": "2030",
+        "explanation": "The reservation of seats for scheduled castes and scheduled tribes in municipalities shall cease after the expiration of the period specified in Article 334, which is currently until 2030."
+      },
+      {
+        "question": "How many functional items are listed in the Twelfth Schedule placed within the purview of municipalities?",
+        "options": [
+          "10",
+          "12",
+          "15",
+          "18"
+        ],
+        "correctAnswer": "18",
+        "explanation": "The Twelfth Schedule contains a total of 18 functional items that are placed within the purview of municipalities."
+      },
+      {
+        "question": "Which of the following is the head of the Panchayati Raj system at the district level?",
+        "options": [
+          "Zila Parishad",
+          "Block Samiti",
+          "Village Panchayat",
+          "Gram Sabha"
+        ],
+        "correctAnswer": "Zila Parishad",
+        "explanation": "The Zila Parishad is the district board and is the head of the Panchayati Raj system at the district level."
+      },
+      {
+        "question": "What is the primary function of the Block Samiti?",
+        "options": [
+          "Supervise the working of the Zila Parishad",
+          "Supervise the working of the village panchayats",
+          "Manage urban planning in villages",
+          "Provide education in rural areas"
+        ],
+        "correctAnswer": "Supervise the working of the village panchayats",
+        "explanation": "The Block Samiti supervises the functioning of the village panchayats under it."
+      },
+      {
+        "question": "Who are the members of the Block Samiti?",
+        "options": [
+          "Members of Lok Sabha and Rajya Sabha",
+          "Members of Vidhan Sabha and Vidhan Parishad from the block",
+          "Representatives of women, Scheduled Castes, Scheduled Tribes, and Other Backward Classes from the block",
+          "All of the above"
+        ],
+        "correctAnswer": "All of the above",
+        "explanation": "The members of the Block Samiti include members from Lok Sabha, Rajya Sabha, Vidhan Sabha, Vidhan Parishad, as well as representatives from women, Scheduled Castes, Scheduled Tribes, and Other Backward Classes from the block."
+      },
+      {
+        "question": "How many village panchayats usually make up one Block Samiti / Panchayat Samiti?",
+        "options": [
+          "50",
+          "100",
+          "150",
+          "200"
+        ],
+        "correctAnswer": "100",
+        "explanation": "Many village panchayats, usually around a hundred, make up one Block Samiti / Panchayat Samiti."
+      },
+      {
+        "question": "At what levels do the following panchayats operate?",
+        "options": [
+          "Zila Parishads - District Level, Block Samitis - Block Level, Panchayats - Village Level",
+          "Zila Parishads - Village Level, Block Samitis - District Level, Panchayats - Block Level",
+          "Zila Parishads - Block Level, Block Samitis - Village Level, Panchayats - District Level",
+          "Zila Parishads - Block Level, Block Samitis - District Level, Panchayats - Village Level"
+        ],
+        "correctAnswer": "Zila Parishads - District Level, Block Samitis - Block Level, Panchayats - Village Level",
+        "explanation": "Zila Parishads function at the district level, Block Samitis at the block level, and Panchayats at the village level."
+      },
+      {
+        "question": "Which of the following are types of Urban Local Self-Government bodies?",
+        "options": [
+          "Municipal Corporations, Municipalities, Cantonment Boards, Port Trust",
+          "Village Panchayats, Block Samitis, Zila Parishads, Port Trust",
+          "Municipalities, Zila Parishads, Block Samitis, Village Panchayats",
+          "Cantonment Boards, Municipal Corporations, Zila Parishads, Village Panchayats"
+        ],
+        "correctAnswer": "Municipal Corporations, Municipalities, Cantonment Boards, Port Trust",
+        "explanation": "Urban Local Self-Government bodies include Municipal Corporations, Municipalities, Cantonment Boards, and Port Trusts."
+      }
+    ],
+    "set3": [
+      {
+        "question": "Which body is responsible for conducting elections for Panchayats and Municipalities in India?",
+        "options": [
+          "Election Commission of India",
+          "State Election Commission",
+          "Lok Sabha & Rajya Sabha",
+          "President and Vice President"
+        ],
+        "correctAnswer": "State Election Commission",
+        "explanation": "The State Election Commission is responsible for conducting elections for Panchayats and Municipalities in India, as per Article 243K and 243ZA."
+      },
+      {
+        "question": "Who conducts elections for the Lok Sabha and Rajya Sabha?",
+        "options": [
+          "Election Commission of India",
+          "State Election Commission",
+          "Panchayat",
+          "Municipalities"
+        ],
+        "correctAnswer": "Election Commission of India",
+        "explanation": "The Election Commission of India is responsible for conducting elections for the Lok Sabha and Rajya Sabha."
+      },
+      {
+        "question": "Which of the following categories of citizens are eligible to be registered as voters under Article 326 of the Indian Constitution?",
+        "options": [
+          "Citizens above the age of 18, with no disqualification",
+          "Citizens above the age of 21",
+          "Citizens above the age of 25, with no criminal records",
+          "Citizens who own property"
+        ],
+        "correctAnswer": "Citizens above the age of 18, with no disqualification",
+        "explanation": "Under Article 326, all citizens above the age of 18 years, and not disqualified by law on grounds like non-residence, unsoundness of mind, crime, or corrupt/illegal practice, are eligible to be registered as voters."
+      },
+      {
+        "question": "What is the significance of Adult Suffrage in India, as stated in Article 326?",
+        "options": [
+          "It allows citizens to vote at the age of 18",
+          "It is limited to landowners",
+          "It grants voting rights to foreign nationals",
+          "It grants voting rights only to men"
+        ],
+        "correctAnswer": "It allows citizens to vote at the age of 18",
+        "explanation": "Adult suffrage in India, as outlined in Article 326, ensures that all citizens above the age of 18 years, with no disqualification, are eligible to vote, promoting electoral democracy."
+      },
+      {
+        "question": "What is the primary mission of the National Commission for Women (NCW)?",
+        "options": [
+          "To ensure the economic independence of women",
+          "To enable women to achieve equality and equal participation in all spheres of life by securing their due rights and entitlements",
+          "To provide education for women",
+          "To provide healthcare services to women"
+        ],
+        "correctAnswer": "To enable women to achieve equality and equal participation in all spheres of life by securing their due rights and entitlements",
+        "explanation": "The mission of the NCW is to strive towards enabling women to achieve equality and equal participation in all spheres of life by securing their due rights and entitlements."
+      },
+      {
+        "question": "What is the vision of the National Commission for Women (NCW)?",
+        "options": [
+          "To ensure women have access to education and healthcare",
+          "To make sure Indian women are secure and empowered to access their rights and contribute equally in all walks of life",
+          "To provide equal job opportunities to women",
+          "To ensure equal wages for women in all sectors"
+        ],
+        "correctAnswer": "To make sure Indian women are secure and empowered to access their rights and contribute equally in all walks of life",
+        "explanation": "The vision of NCW is to ensure that Indian women, secure in their homes and outside, are fully empowered to access their rights and entitlements and have the opportunity to contribute equally in all walks of life."
+      },
+      {
+        "question": "How many types of Urban Local Government are there in India?",
+        "options": [
+          "Six",
+          "Seven",
+          "Eight",
+          "Nine"
+        ],
+        "correctAnswer": "Eight",
+        "explanation": "There are eight types of Urban Local Governments in India: Municipal Corporations, Municipality, Notified Area Committee, Town Area Committee, Cantonment Board, Township, and Port Trust."
+      },
+      {
+        "question": "Which of the following is NOT a type of Urban Local Government in India?",
+        "options": [
+          "Municipal Corporation",
+          "Cantonment Board",
+          "Panchayat Samiti",
+          "Port Trust"
+        ],
+        "correctAnswer": "Panchayat Samiti",
+        "explanation": "Panchayat Samiti is a rural local government body at the block level and is not an urban local government body."
+      },
+      {
+        "question": "Under which condition can a person be disqualified from being chosen as a member of a municipality?",
+        "options": [
+          "If they are under 18 years of age",
+          "If they are disqualified under any law for the time being in force for elections to the state legislature",
+          "If they have not completed secondary education",
+          "If they are not a permanent resident of the state"
+        ],
+        "correctAnswer": "If they are disqualified under any law for the time being in force for elections to the state legislature",
+        "explanation": "A person can be disqualified for being a member of a municipality if they are disqualified under any law related to state legislature elections."
+      },
+      {
+        "question": "What is the minimum age for a person to be eligible to be a member of a municipality?",
+        "options": [
+          "18 years",
+          "21 years",
+          "25 years",
+          "30 years"
+        ],
+        "correctAnswer": "21 years",
+        "explanation": "A person shall not be disqualified on the ground of being less than 25 years of age if they have attained the age of 21 years."
+      }
+    ],
+    "set4": [
+    {
+      "question": "What is the minimum population requirement for a village to form a Gram Sabha?",
+      "options": [
+        "A. 100",
+        "B. 250",
+        "C. 500",
+        "D. 1000"
+      ],
+      "correctAnswer": "C. 500",
+      "explanation": "According to the information, a village must have a population of 500 or more to form a Gram Sabha."
+    },
+    {
+      "question": "How often does a Gram Sabha typically meet in a year?",
+      "options": [
+        "A. Once a year",
+        "B. Twice a year",
+        "C. Thrice a year",
+        "D. Quarterly"
+      ],
+      "correctAnswer": "B. Twice a year",
+      "explanation": "As per the information provided, Gram Sabhas typically meet twice a year to discuss important matters and problems related to the village."
+    },
+    {
+      "question": "What is the reservation percentage for women in the Block Samiti?",
+      "options": [
+        "One-third",
+        "One-fourth",
+        "One-half",
+        "One-sixth"
+      ],
+      "correctAnswer": "One-third",
+      "explanation": "The reservation of seats for women in the Block Samiti is one-third of the total seats."
+    },
+    {
+      "question": "Which of the following are included as representatives in the Block Samiti?",
+      "options": [
+        "Members of Lok Sabha and Rajya Sabha",
+        "Members of Vidhan Sabha and Vidhan Parishad from the block",
+        "Representatives of women, Scheduled Castes, Scheduled Tribes, and Other Backward Classes from the block",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above",
+      "explanation": "The members of the Block Samiti include members of Lok Sabha, Rajya Sabha, Vidhan Sabha, Vidhan Parishad, and representatives of women, Scheduled Castes, Scheduled Tribes, and Other Backward Classes."
+    },
+    {
+      "question": "Which of the following institutions reviews the financial position every fifth year?",
+      "options": [
+        "State Election Commission",
+        "State Finance Commission",
+        "District Planning Committee",
+        "All of the above"
+      ],
+      "correctAnswer": "State Finance Commission",
+      "explanation": "The State Finance Commission reviews the financial position of the state and its local bodies every fifth year."
+    },
+    {
+      "question": "Which of the following is NOT a part of the composition of the National Commission for Women (NCW) as per Section 3?",
+      "options": [
+        "Chairperson committed to the cause of women",
+        "Five members nominated by the central government from various fields",
+        "A Member Secretary nominated by the state government",
+        "At least one member from the Scheduled Castes and Scheduled Tribes"
+      ],
+      "correctAnswer": "A Member Secretary nominated by the state government",
+      "explanation": "The Member Secretary of the National Commission for Women is nominated by the Central Government, not the state government."
+    }
+  ]
   }
 }
