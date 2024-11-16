@@ -136,17 +136,6 @@
         "explanation": "The Indian Constitution follows a parliamentary system, not a presidential system."
       },
       {
-        "question": "What does the term 'Secular' mean in the context of the Indian state?",
-        "options": [
-          "Favoring one religion",
-          "No religion is favored by the state",
-          "Promoting atheism",
-          "Encouraging religious conflicts"
-        ],
-        "correctAnswer": "No religion is favored by the state",
-        "explanation": "Secular means that the state treats all religions equally and does not favor any religion."
-      },
-      {
         "question": "Which body is responsible for the amendment of the Indian Constitution?",
         "options": [
           "The President",
@@ -213,15 +202,15 @@
         "explanation": "The Prime Minister is the head of the government and is responsible for running the administration."
       },
       {
-        "question": "Which of the following is a feature of the Indian parliamentary system?",
+        "question": "What is the primary difference between the Indian Preamble and the Indian Constitution?",
         "options": [
-          "Bicameral legislature",
-          "Single-party rule",
-          "Direct elections",
-          "None of the above"
+          "The Preamble outlines the structure of the government, while the Constitution sets forth the values of the country.",
+          "The Preamble is a legally enforceable document, while the Constitution is not.",
+          "The Preamble expresses the ideals and goals of the Constitution, while the Constitution is the detailed legal framework governing the country.",
+          "The Preamble is part of the Constitution and has been amended more times than the Constitution."
         ],
-        "correctAnswer": "Bicameral legislature",
-        "explanation": "The Indian parliamentary system features a bicameral legislature, consisting of the Lok Sabha and Rajya Sabha."
+        "correctAnswer": "The Preamble expresses the ideals and goals of the Constitution, while the Constitution is the detailed legal framework governing the country.",
+        "explanation": "The Indian Preamble sets the tone for the Constitution by expressing the fundamental principles, while the Constitution itself is the legal document that outlines the structure, powers, and duties of the government."
       }
     ],
     "set2": [
