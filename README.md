@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>VITOL_QUIZ_APP</h1>
 <p align="left">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em>A lightweight quiz platform for practicing questions on the Indian Constitution.</em>
 </p>
 <p align="left">
 	<img src="https://img.shields.io/github/license/Satya1929/Vitol_quiz_app?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -38,13 +38,17 @@
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+Vitol Quiz App is a React and TypeScript based study tool. It organizes multiple-choice questions on the Indian Constitution into weekly sets and provides detailed analysis after each quiz.
 
 ---
 
 ## 👾 Features
 
-<code>❯ REPLACE-ME</code>
+- Weekly quizzes grouped by week and set
+- Skip or revisit questions before submitting
+- Post-quiz analysis with per-question explanations
+- Built with React, Vite and Tailwind CSS
+- Tutorial video and contributor information
 
 ---
 
@@ -81,43 +85,43 @@
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/postcss.config.js'>postcss.config.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td>PostCSS configuration enabling Tailwind CSS and autoprefixer.</td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/tsconfig.node.json'>tsconfig.node.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td>TypeScript configuration for Node-based tooling.</td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/package-lock.json'>package-lock.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td>Lock file tracking exact versions of installed dependencies.</td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/tsconfig.json'>tsconfig.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td>Project configuration referencing other TypeScript configs.</td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/tailwind.config.js'>tailwind.config.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td>Tailwind CSS setup with custom gradient animation.</td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/tsconfig.app.json'>tsconfig.app.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td>TypeScript options used when compiling the React app.</td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/package.json'>package.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td>Project metadata and npm scripts.</td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/vite.config.ts'>vite.config.ts</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td>Build configuration using Vite with the React plugin.</td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/index.html'>index.html</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td>HTML entry point for the application.</td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/eslint.config.js'>eslint.config.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td>ESLint rules for TypeScript and React projects.</td>
 			</tr>
 			</table>
 		</blockquote>
@@ -128,19 +132,19 @@
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/src/main.tsx'>main.tsx</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td>Entry file that renders the React application.</td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/src/index.css'>index.css</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td>Global Tailwind CSS styles.</td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/src/App.tsx'>App.tsx</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td>Root component managing quiz flow and state.</td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/src/vite-env.d.ts'>vite-env.d.ts</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td>Type definitions for Vite's environment variables.</td>
 			</tr>
 			</table>
 			<details>
@@ -149,31 +153,31 @@
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/src/components/QuizQuestion.tsx'>QuizQuestion.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td>Displays a single quiz question with navigation controls.</td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/src/components/Background.tsx'>Background.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td>Provides the gradient background wrapper.</td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/src/components/VideoSection.tsx'>VideoSection.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td>Contains the embedded YouTube video.</td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/src/components/Contributors.tsx'>Contributors.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td>Shows contributor details with social links.</td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/src/components/QuizAnalysis.tsx'>QuizAnalysis.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td>Calculates statistics and lists answers after a quiz.</td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/src/components/WeekCard.tsx'>WeekCard.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td>Card element representing a week selection.</td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/Satya1929/Vitol_quiz_app/blob/master/src/components/QuizCard.tsx'>QuizCard.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td>Selectable card for each quiz set or PYQ.</td>
 					</tr>
 					</table>
 				</blockquote>
@@ -299,6 +303,6 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 
 ## 🙌 Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
+- Developed by Satyaprakash Swain using official VIT Chennai study materials.
 
 ---
