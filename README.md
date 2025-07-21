@@ -247,8 +247,8 @@ Run the test suite using the following command:
 ## 📌 Project Roadmap
 
 - [X] **`Task 1`**: <strike>Deploy and Bring 10,000+ page visits.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
+- [ ] **`Task 2`**: Implement Same for Multiple Subjects.
+- [ ] **`Task 3`**: Implement AI suggestion to reduce mistakes.
 
 ---
 
