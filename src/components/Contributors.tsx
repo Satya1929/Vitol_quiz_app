@@ -25,7 +25,7 @@
 //         <h1 className="text-4xl font-bold text-center mb-12">
 //           Meet the amazing contributors behind this project.🎉
 //         </h1>
-        
+
 //         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
 //           {contributors.map((contributor, index) => (
 //             <div key={index} className="glass-card p-8 text-center">
@@ -84,7 +84,7 @@
 //         <h1 className="text-4xl font-bold text-center mb-12">
 //           Meet the Amazing person behind this project!🎉
 //         </h1>
-        
+
 //         <div className="grid grid-cols-1 gap-8 justify-center items-center min-h-[40vh]">
 //           {contributors.map((contributor, index) => (
 //             <div key={index} className="glass-card p-8 text-center">
@@ -124,7 +124,7 @@
 
 
 import React from 'react';
-import { Github, Linkedin, ArrowLeft, Home } from 'lucide-react'; 
+import { Github, Linkedin, ArrowLeft, Home } from 'lucide-react';
 import { Background } from './Background';
 
 // Add props interface
@@ -155,7 +155,7 @@ export const Contributors: React.FC<ContributorsProps> = ({ onBack, onHome }) =>
             <ArrowLeft className="w-4 h-4" />
             Back
           </button>
-          
+
           <button
             onClick={onHome}
             className="btn inline-flex items-center gap-2"
@@ -168,7 +168,7 @@ export const Contributors: React.FC<ContributorsProps> = ({ onBack, onHome }) =>
         <h1 className="text-4xl font-bold text-center mb-12">
           Meet the Amazing person behind this project!🎉
         </h1>
-        
+
         <div className="grid grid-cols-1 gap-8 justify-center items-center min-h-[40vh]">
           {contributors.map((contributor, index) => (
             <div key={index} className="glass-card p-8 text-center">
@@ -205,7 +205,7 @@ export const Contributors: React.FC<ContributorsProps> = ({ onBack, onHome }) =>
           {/* <h3 className="text-2xl font-semibold mb-4">About the Quiz Content</h3> */}
           <p className="text-lg mb-6">
             Note : Hey !! I have provided PYQs with MCQ Sets made from the official VIT Chennai Materials.
-             DM me 7735416363 for Feedback.
+            DM me 7735416363 for Feedback.
           </p>
           {/* <p className="text-lg mb-6">
             Each week has PYQ (10 Q) + Multiple MCQ sets by me (10 Q in each set).

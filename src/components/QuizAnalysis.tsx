@@ -1,5 +1,6 @@
-import React from 'react';
-import { CheckCircle, XCircle, SkipForward, PieChart } from 'lucide-react';
+import React, { useState } from 'react';
+import { CheckCircle, XCircle, SkipForward, PieChart, Sparkles, Loader2, AlertCircle } from 'lucide-react';
+import { getAIFeedback } from '../services/ai';
 
 interface QuizAnalysisProps {
   questions: Array<{
@@ -17,6 +18,23 @@ export const QuizAnalysis: React.FC<QuizAnalysisProps> = ({
   userAnswers,
   onRetake,
 }) => {
+  const [aiFeedback, setAiFeedback] = useState<Record<number, string>>({});
+  const [loadingFeedback, setLoadingFeedback] = useState<Record<number, boolean>>({});
+  const [errorFeedback, setErrorFeedback] = useState<Record<number, string>>({});
+
+  const handleGetAIFeedback = async (index: number, question: string, userAnswer: string, correctAnswer: string, explanation: string) => {
+    setLoadingFeedback(prev => ({ ...prev, [index]: true }));
+    setErrorFeedback(prev => ({ ...prev, [index]: '' })); // Clear previous errors
+
+    try {
+      const feedback = await getAIFeedback(question, userAnswer, correctAnswer, explanation);
+      setAiFeedback(prev => ({ ...prev, [index]: feedback }));
+    } catch (error) {
+      setErrorFeedback(prev => ({ ...prev, [index]: (error as Error).message }));
+    } finally {
+      setLoadingFeedback(prev => ({ ...prev, [index]: false }));
+    }
+  };
   const stats = {
     total: questions.length,
     attempted: Object.keys(userAnswers).length,
@@ -111,6 +129,46 @@ export const QuizAnalysis: React.FC<QuizAnalysisProps> = ({
               <p className="text-sm font-medium text-violet-200">Explanation:</p>
               <p className="mt-1 text-gray-300">{question.explanation}</p>
             </div>
+
+            {!isCorrect && !isSkipped && (
+              <div className="mt-4">
+                {aiFeedback[index] ? (
+                  <div className="p-4 bg-gradient-to-r from-indigo-500/20 to-purple-500/20 rounded-lg border border-indigo-500/30">
+                    <div className="flex items-center gap-2 mb-2 text-indigo-300">
+                      <Sparkles className="w-4 h-4" />
+                      <span className="font-semibold text-sm">AI Personal Tutor</span>
+                    </div>
+                    <p className="text-gray-200 text-sm leading-relaxed">{aiFeedback[index]}</p>
+                  </div>
+                ) : (
+                  <div>
+                    <button
+                      onClick={() => handleGetAIFeedback(index, question.question, userAnswer, question.correctAnswer, question.explanation)}
+                      disabled={loadingFeedback[index]}
+                      className="btn w-full mr-auto text-sm py-2 px-4 bg-indigo-600/20 hover:bg-indigo-600/30 text-indigo-200 flex items-center justify-center gap-2 transition-all"
+                    >
+                      {loadingFeedback[index] ? (
+                        <>
+                          <Loader2 className="w-4 h-4 animate-spin" />
+                          Analyzing your answer...
+                        </>
+                      ) : (
+                        <>
+                          <Sparkles className="w-4 h-4" />
+                          Ask AI Code/Tutor why I was wrong
+                        </>
+                      )}
+                    </button>
+                    {errorFeedback[index] && (
+                      <div className="mt-2 text-red-400 text-sm flex items-center gap-2">
+                        <AlertCircle className="w-4 h-4" />
+                        {errorFeedback[index]}
+                      </div>
+                    )}
+                  </div>
+                )}
+              </div>
+            )}
           </div>
         );
       })}
