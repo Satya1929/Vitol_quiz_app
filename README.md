@@ -31,7 +31,7 @@
   - [🧪 Testing](#🧪-testing)
 - [📌 Project Roadmap](#-project-roadmap)
 - [🔰 Contributing](#-contributing)
-- [🎗 License](#-license)
+<!-- - [🎗 License](#-license) -->
 - [🙌 Acknowledgments](#-acknowledgments)
 
 ---
@@ -44,15 +44,47 @@ Vitol Quiz App is a React and TypeScript based study tool. It organizes multiple
 
 ## 👾 Features
 
-- Weekly quizzes grouped by week and set
-- Skip or revisit questions before submitting
-- Post-quiz analysis with per-question explanations
-- Built with React, Vite and Tailwind CSS
-- Tutorial video and contributor information
+- **📅 Structured 6-Week Curriculum**: Quizzes are organized into a weekly learning path, covering core topics of the Indian Constitution with dedicated sections for Previous Year Questions (PYQs) and multiple practice sets (up to 6 sets per week).
+- **⚡ Dynamic Quiz Mechanics**: A high-performance interface that allows users to track their progress (e.g., "Question 1 of 10"), skip challenging questions to revisit later, and submit only when ready.
+- **📊 Comprehensive Analytics**:
+  - **Visual Statistics**: Post-quiz breakdown including Attempted, Not Attempted, Correct, and Incorrect counts.
+  - **In-depth Review**: A per-question analysis that highlights your choice versus the correct answer.
+  - **Pedagogical Explanations**: Every single question is paired with a clear, educational explanation to help reinforce constitutional concepts.
+- **🎨 Premium UI/UX**:
+  - **Glassmorphism Design**: A sleek, modern aesthetic using semi-transparent "glass" cards powered by Tailwind CSS.
+  - **Micro-Animations**: Custom animated gradient backgrounds and interactive elements for an engaging user experience.
+  - **Integrated Learning**: A dedicated Video Section for visual tutorials directly within the platform.
+- **🛠️ Modern Tech Stack**: Built with React 18 and TypeScript for type safety, utilizing a **Serverless Static Architecture** with a JSON-based data layer for lightning-fast performance and Vite for optimized builds. Integrated with Google Analytics (GA4) for engagement tracking.
 
 ---
 
-## 📁 Project Structure
+## �️ Tech Stack
+
+Designed with a **Serverless Static Architecture** utilizing a local JSON-based data layer for lightning-fast performance and zero-latency quiz transitions.
+
+### ⚛️ Core Frontend
+- **React 18**: Utilizing the latest React features like Concurrent Rendering and transition hooks for a smooth user experience.
+- **TypeScript**: Implemented throughout the project to provide strict type-checking for quiz data structures, state management, and component props.
+
+### ⚡ Build & Development
+- **Vite**: Used as the build tool and development server, offering near-instantaneous Hot Module Replacement (HMR) and highly optimized production builds.
+- **ESLint (Flat Config)**: Configured with standard rules for React and TypeScript to ensure high code quality and consistency.
+
+### 🎨 Styling & UI/UX
+- **Tailwind CSS**: A utility-first CSS framework used to create the app's modern "Glassmorphism" aesthetic.
+- **Lucide React**: A collection of beautiful, lightweight SVG icons used for navigation (Home, Back) and quiz feedback (Check, X, Skip).
+- **PostCSS**: Used for CSS transformations and Autoprefixer to ensure styles work across all modern browsers.
+
+### 📊 Data & Analytics
+- **JSON-Driven Architecture**: The entire curriculum (6 weeks, 36+ sets) is stored in a structured `quizData.json` file, making it easy to update or add new subjects without touching the logic.
+- **React GA4**: Integrated with Google Analytics 4 (G-XGLMVEGNZB) to track user acquisition, quiz completion rates, and page interactions.
+
+### 🏗️ State Management
+- **React Context/Hooks**: Leverages `useState` and `useEffect` for managing the multi-stage quiz flow (Weeks → Sets → Quiz → Analysis).
+
+---
+
+## �📁 Project Structure
 
 ```sh
 └── Vitol_quiz_app/
@@ -233,14 +265,14 @@ Run Vitol_quiz_app using the following command:
 ❯ npm start
 ```
 
-
+<!-- 
 ### 🧪 Testing
 Run the test suite using the following command:
 **Using `npm`** &nbsp; [<img align="center" src="https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white" />](https://www.npmjs.com/)
 
 ```sh
 ❯ npm test
-```
+``` -->
 
 
 ---
@@ -254,7 +286,6 @@ Run the test suite using the following command:
 
 ## 🔰 Contributing
 
-- **💬 [Join the Discussions](https://github.com/Satya1929/Vitol_quiz_app/discussions)**: Share your insights, provide feedback, or ask questions.
 - **🐛 [Report Issues](https://github.com/Satya1929/Vitol_quiz_app/issues)**: Submit bugs found or log feature requests for the `Vitol_quiz_app` project.
 - **💡 [Submit Pull Requests](https://github.com/Satya1929/Vitol_quiz_app/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
@@ -295,11 +326,11 @@ Run the test suite using the following command:
 
 ---
 
-## 🎗 License
+<!-- ## 🎗 License
 
 This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file. (To Do)
 
----
+--- -->
 
 ## 🙌 Acknowledgments
 
