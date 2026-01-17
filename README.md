@@ -42,6 +42,12 @@ V-Quiz (Vitol Quiz App) is a high-performance, interactive learning platform spe
 
 ---
 
+## 🌐 Visit Live App
+
+[**Explore the Interactive Quiz Platform →**](https://indian-constituition-quiz-by-satya.netlify.app/)
+
+---
+
 ## 👾 Features
 
 - **📅 Structured 6-Week Curriculum**: Quizzes are organized into a weekly learning path, covering core topics of the Indian Constitution with dedicated sections for Previous Year Questions (PYQs) and multiple practice sets (up to 6 sets per week).
@@ -55,13 +61,6 @@ V-Quiz (Vitol Quiz App) is a high-performance, interactive learning platform spe
   - **Micro-Animations**: Custom animated gradient backgrounds and interactive elements for an engaging user experience.
   - **Integrated Learning**: A dedicated Video Section for visual tutorials directly within the platform.
 - **🛠️ Modern Tech Stack**: Built with React 18 and TypeScript for type safety, utilizing a **Serverless Static Architecture** with a JSON-based data layer for lightning-fast performance and Vite for optimized builds. Integrated with Google Analytics (GA4) for engagement tracking.
-
----
-
-## 🌐 Visit Live App
-
-[**Explore the Interactive Quiz Platform →**](https://indian-constituition-quiz-by-satya.netlify.app/)
-
 
 
 ---
