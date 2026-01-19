@@ -2,7 +2,7 @@
 <!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="right" width="30%" style="margin: -20px 0 0 20px;"> -->
 <h1>V-Quiz (Vitol Quiz App)</h1>
 <p align="left">
-	<em>A high-impact Indian constitutional learning platform trusted by 1,400+ users at VIT Chennai, delivering over 15,000 page views of structured education.</em>
+	<em>Scaled an AI learning platform to 1,400+ users and 15k+ views. Integrated Google Gemini LLM to achieve a high retention rate of 11+ minutes per session.</em>
 </p>
 <p align="left">
 <!-- 	<img src="https://img.shields.io/github/license/Satya1929/Vitol_quiz_app?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license"> -->
